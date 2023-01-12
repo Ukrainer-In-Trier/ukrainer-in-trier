@@ -1,5 +1,6 @@
 ---
 author: 'Hugo Authors'
+title: 'Équipe créative "OISEAUX GRATUITS"'
 thumbnail: '/projectsImg/2.jpg'
 pagetype: "Basic"
 buttonText: "Suite"

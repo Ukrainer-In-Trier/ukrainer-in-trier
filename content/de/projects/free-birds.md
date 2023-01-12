@@ -1,6 +1,6 @@
 ---
 author: 'Hugo Authors'
-title: 'Kreativteam "Free Birds"'
+title: 'Kreativteam "FREE VÖGEL"'
 thumbnail: '/projectsImg/2.jpg'
 pagetype: "Basic"
 buttonText: "Mehr"
