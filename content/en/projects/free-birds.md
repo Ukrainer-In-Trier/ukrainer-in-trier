@@ -1,5 +1,6 @@
 ---
 author: 'Hugo Authors'
+thumbnail: '/projectsImg/2.jpg'
 pagetype: "Basic"
 buttonText: "More"
 previewText: "The mysterious ancient Trier attracts talented people, binds and unites them. 
