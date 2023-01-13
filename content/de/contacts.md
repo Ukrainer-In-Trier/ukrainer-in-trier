@@ -35,7 +35,7 @@ tags: ['Контакти']
           <h1 class="title-font text-xl font-medium text-white font-bold text-5xl  mb-8">Join us at</h1>
         <ul class="list-none text-2xl italic">
             <li>
-            <a href="https://www.facebook.com/ua.in.trier/" target="_blank" rel="noreferrer noopener"><span style="letter-spacing:normal;"><span class="color_11"><span style="text-decoration:underline;">Facebook</span></span></span></a>
+            <a href="https://www.facebook.com/ua.in.trier/" target="_blank" rel="noreferrer noopener" ><span style="letter-spacing:normal;"><span class="color_11"><span style="text-decoration:underline;">Facebook</span></span></span></a>
             </li>
             <li>
             <a href="https://www.instagram.com/ua_in_trier/" target="_blank" rel="noreferrer noopener"><span style="letter-spacing:normal;"><span class="color_11"><span style="text-decoration:underline;">Instagram</span></span></span></a>
