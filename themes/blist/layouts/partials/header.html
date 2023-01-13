@@ -1,4 +1,4 @@
-<header class="container flex overflow-hidden justify-between md:justify-between px-6 gap-4 flex-wrap py-3.5 mx-auto relative">
+<header class="container flex justify-between md:justify-between px-6 gap-4 flex-wrap py-3.5 mx-auto relative">
   <a href="{{ .Site.Home.Permalink }}" class="capitalize font-extrabold text-2xl w-40">
     {{ if .Site.Params.logo }}
 
@@ -15,7 +15,7 @@
     </svg>
   </button>
   <ul
-    class="mobile-menu relative z-10 mx-px pb-6 3xl:p-0 top-full left-0 w-full 3xl:w-auto 3xl:relative hidden 3xl:flex flex-col 3xl:flex-row items-start 
+    class="mobile-menu relative mx-px pb-6 3xl:p-0 top-full left-0 w-full 3xl:w-auto 3xl:relative hidden 3xl:flex flex-col 3xl:flex-row items-start 
     3xl:items-start 3xl:mt-4 gap-4 3xl:gap-4 dark:bg-gray-800">
     {{ $currentPage := . }}
     {{ range .Site.Menus.main }}
@@ -34,8 +34,7 @@
           </span>
         </a>
         <!-- Dropdown menu -->
-        <div
-          class="content-dropdown relative max-w-max top-full 3xl:mt-12 3xl:-left-18 place-content-start -ml-20 pb-3 left-0 md:pl-2 md:pr-8 mt-12 flex-col items-start gap-1 3xl:bg-gray-100 3xl:dark:bg-gray-900 
+        <div class="content-dropdown relative 3xl:absolute max-w-max top-0 3xl:left-8 place-content-start -ml-20 pb-3 left-0 md:pl-2 md:pr-8 mt-12 flex-col items-start gap-1 3xl:bg-gray-100 3xl:dark:bg-gray-900 
           dark:text-white hidden">
           {{ range .Children }}
           <a href="{{ .URL }}"
@@ -59,7 +58,7 @@
       <a href="{{ .Site.Params.donations }}" class="bg-red-600 text-white h-full uppercase 3xl:py-2 px-2 bottom-0 font-bold hover:bg-red-700 ">{{ .Site.Params.donateTitle }}</a>
     </li>
     {{ if .Site.IsMultiLingual }} {{ if ge (len .Site.Languages) 3 }}
-    <li class="relative cursor-pointer">
+    <div class="relative cursor-pointer">
       <span class="dropdown-switcher flex items-center gap-1">
         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5"
           stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -77,14 +76,13 @@
           <path d="M18 15l-6 -6l-6 6h12" transform="rotate(180 12 12)" />
         </svg>
       </span>
-      <div
-        class="content-dropdown relative top-1 3xl:mt-6 mt-6 pb-2 left-4 flex-col h-full gap-y-1 3xl:bg-gray-100 3xl:dark:bg-gray-900 dark:text-white z-10 hidden">
+      <li class="content-dropdown relative 3xl:absolute top-1 mt-2 pb-2 left-4 flex-col h-24 3xl:bg-gray-100 3xl:dark:bg-gray-900 3xl:mt-8 dark:text-white z-10 hidden">
         {{ range .Site.Languages }} {{ if not (eq .Lang $.Site.Language.Lang) }}
         <a class="px-5 py-1 hover:text-red-600 dark:hover:text-red-600" href="/{{ .Lang }}" lang="{{ .Lang }}">{{ default
           .Lang .LanguageName }}</a>
         {{ end }} {{ end }}
-      </div>
-    </li>
+      </li>
+    </div>
     {{ else }}
     <li class="flex items-center">
       {{ range .Site.Languages }} {{ if not (eq .Lang $.Site.Language.Lang) }}
