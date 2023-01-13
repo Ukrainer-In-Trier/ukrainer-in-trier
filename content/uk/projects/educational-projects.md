@@ -1,8 +1,7 @@
 ---
-author: "Hugo Authors"
 title: "Освітні проекти"
 thumbnail: "/projectsImg/5.jpg"
-pagetype: "Basic"
+pageType: "Basic"
 buttonText: "Бiльше"
 previewText: "Вчителі, навіть далеко від дому плекають українську мову, та вкладають знання юним чомучкам. 
 Освітній проект \"Соняшник\" - справжня знахідка для кожного школярика!"

@@ -1,5 +1,4 @@
 ---
-author: 'Hugo Authors'
 title: 'Kreativteam "FREE VÖGEL"'
 thumbnail: '/projectsImg/2.jpg'
 pagetype: "Basic"

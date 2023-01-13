@@ -1,5 +1,4 @@
 ---
-author: "Hugo Authors"
 pagetype: "WhatElse"
 title: "WAS TUN WIR NOCH?"
 description: "WAS TUN WIR NOCH?"

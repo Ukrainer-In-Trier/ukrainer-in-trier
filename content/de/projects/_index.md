@@ -1,5 +1,4 @@
 ---
-author:  SkillUp volunteers
 title: Unsere Projekte
 ---
 

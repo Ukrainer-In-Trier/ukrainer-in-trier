@@ -1,5 +1,4 @@
 ---
-author: 'Hugo Authors'
 title: 'Психологічна підримка'
 thumbnail: '/projectsImg/7.jpg'
 pagetype: "Basic"

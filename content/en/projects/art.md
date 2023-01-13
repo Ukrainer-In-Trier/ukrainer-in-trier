@@ -1,5 +1,4 @@
 ---
-author: "Anauthor"
 title: "Art space / art"
 thumbnail: "/projectsImg/4.jpg"
 pagetype: "Basic"

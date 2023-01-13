@@ -1,5 +1,4 @@
 ---
-author: "Hugo Authors"
 pagetype: "WhatElse"
 title: "Que faisons-nous d'autre ?"
 description: "Que faisons-nous d'autre ?"

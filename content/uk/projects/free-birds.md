@@ -1,5 +1,4 @@
 ---
-author: 'Hugo Authors'
 title: 'Творчий колектив "ВІЛЬНІ ПТАХИ"'
 thumbnail: '/projectsImg/2.jpg'
 pagetype: "Basic"

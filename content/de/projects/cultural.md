@@ -1,5 +1,4 @@
 ---
-author: "Hugo Authors"
 pagetype: "CulturalCenter"
 title: "Ukrainisches Kulturzentrum"
 description: "Ukrainisches Kulturzentrum"

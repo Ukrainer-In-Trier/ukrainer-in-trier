@@ -1,5 +1,4 @@
 ---
-author: "Hugo Authors"
 pagetype: "WhatElse"
 title: "What else do we do"
 description: "What else do we do"

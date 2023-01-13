@@ -1,5 +1,4 @@
 ---
-author: "Hugo Authors"
 pagetype: "WhatElse"
 title: "ЧИМ ЩЕ МИ ЗАЙМАЄМОСЬ?"
 description: "ЧИМ ЩЕ МИ ЗАЙМАЄМОСЬ?"
