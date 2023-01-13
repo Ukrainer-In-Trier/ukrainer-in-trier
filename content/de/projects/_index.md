@@ -1,4 +1,6 @@
 ---
+author:  SkillUp volunteers
+title: Unsere Projekte
 ---
 
 Wir bemühen uns, jedem Ukrainer, der in Deutschland Zuflucht gefunden hat, 
