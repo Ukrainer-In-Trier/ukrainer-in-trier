@@ -6,4 +6,6 @@ buttonText: "Suite"
 previewText: "Nous transmettons toute la saveur ukrainienne à travers la créativité et la cuisine nationale traditionnelle."
 ---
 
+<div class="text-center">
 Nous transmettons toute la saveur ukrainienne à travers la créativité et la cuisine nationale traditionnelle.
+</div>

@@ -6,4 +6,6 @@ buttonText: "Mehr"
 previewText: "Wir erstellen Ausstellungen, historische Requisiten. Wir schaffen und durch Kreativität - wir vermitteln unsere Werte und Gefühle."
 ---
 
+<div class="text-center">
 Wir erstellen Ausstellungen, historische Requisiten. Wir schaffen und durch Kreativität - wir vermitteln unsere Werte und Gefühle.
+</div>

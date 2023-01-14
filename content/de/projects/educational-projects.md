@@ -7,5 +7,7 @@ previewText: "Lehrer, auch weit weg von zu Hause, pflegen die ukrainische Sprach
 Das Bildungsprojekt \"Sonnenblume\" ist ein echter Geheimtipp für jedes Schulkind!"
 ---
 
+<div class="text-center">
 Lehrer, auch weit weg von zu Hause, pflegen die ukrainische Sprache und vermitteln Wissen an kleine Kinder.
 Das Bildungsprojekt "Sonnenblume" ist ein echter Geheimtipp für jedes Schulkind!
+</div>

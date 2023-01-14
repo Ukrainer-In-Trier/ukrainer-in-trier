@@ -6,4 +6,6 @@ buttonText: "More"
 previewText: "We create exhibitions, historical props. We create and through creativity - we convey our values and feelings."
 ---
 
+<div class="text-center">
 We create exhibitions, historical props. We create and through creativity - we convey our values and feelings.
+</div>
