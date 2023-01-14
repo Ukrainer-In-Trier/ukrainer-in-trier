@@ -12,7 +12,7 @@
 
   <!-- {{ $paginator := .Paginate .Pages.ByDate.Reverse 24 }} -->
   <div class="container px-6 mx-auto pb-16 grid grid-cols-1 md:grid-cols-2 gap-2 lg:gap-2 w-full">
-    {{ range where .Pages "Params.pageType" "Basic" }}
+    {{ range where .Pages "Params.pagetype" "Basic" }}
       {{- partial "projects-card.html" . -}}
     {{ end }}
   </div>
