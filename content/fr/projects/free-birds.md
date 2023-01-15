@@ -1,6 +1,5 @@
 ---
 author: 'Hugo Authors'
-author: 'Hugo Authors'
 ---
 <div class=' m-0 bg-fixed bg-cover'>
     <div style='background-color: rgba(220, 38, 38, 0.8)' class='py-8'>
