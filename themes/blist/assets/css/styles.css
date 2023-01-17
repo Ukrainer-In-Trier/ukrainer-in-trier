@@ -10,3 +10,5 @@
 @import 'node_modules/tailwindcss/utilities';
 
 @import 'node_modules/tailwindcss/dist/tailwind';
+
+@import 'node_modules/tailwindcss/dist/tailwind-dark';
