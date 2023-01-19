@@ -1,6 +1,6 @@
 ---
 title: 'Kreativteam "FREE VÖGEL"'
-thumbnail: '/projectsImg/2.jpg'
+thumbnail: "/projectsImg/2.jpg"
 pagetype: "Basic"
 buttonText: "Mehr"
 previewText: "Das geheimnisvolle alte Trier zieht talentierte Menschen an, verbindet und vereint sie. 

@@ -1,6 +1,6 @@
 ---
-title: 'Психологічна підримка'
-thumbnail: '/projectsImg/7.jpg'
+title: "Психологічна підримка"
+thumbnail: "/projectsImg/7.jpg"
 pagetype: "Basic"
 buttonText: "Бiльше"
 previewText: "Кожен українець має можливість звер- нутись до нас по допомогу і обов'язково отримає її.  

@@ -6,6 +6,8 @@ buttonText: "Suite"
 previewText: "Nous transmettons toute la saveur ukrainienne à travers la créativité et la cuisine nationale traditionnelle."
 ---
 
-<div class="text-center">
+{{< project-picture src="/projectsImg/3.jpg" alt="Restauration/ Foires alimentaires/ Foires" >}}
+
+<div class="text-center container p-6 mx-auto">
 Nous transmettons toute la saveur ukrainienne à travers la créativité et la cuisine nationale traditionnelle.
 </div>

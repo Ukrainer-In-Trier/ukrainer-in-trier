@@ -1,6 +1,6 @@
 ---
 title: 'Équipe créative "OISEAUX GRATUITS"'
-thumbnail: '/projectsImg/2.jpg'
+thumbnail: "/projectsImg/2.jpg"
 pagetype: "Basic"
 buttonText: "Suite"
 previewText: "La vieille ville mystérieuse de Trèves attire, relie et unit des personnes talentueuses.

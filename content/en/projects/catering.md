@@ -6,6 +6,8 @@ buttonText: "More"
 previewText: "We convey the entire Ukrainian flavor through creativity and traditional national food."
 ---
 
-<div class="text-center">
+{{< project-picture src="/projectsImg/3.jpg" alt="Catering/ Food courts/ Fairs" >}}
+
+<div class="text-center container p-6 mx-auto">
 We convey the entire Ukrainian flavor through creativity and traditional national food.
 </div>

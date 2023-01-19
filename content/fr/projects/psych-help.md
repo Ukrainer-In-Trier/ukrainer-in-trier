@@ -1,6 +1,6 @@
 ---
-title: 'Aide psychologique'
-thumbnail: '/projectsImg/7.jpg'
+title: "Aide psychologique"
+thumbnail: "/projectsImg/7.jpg"
 pagetype: "Basic"
 buttonText: "Suite"
 previewText: "Chaque Ukrainien a la possibilité de se tourner vers nous pour obtenir de l'aide et la recevra certainement.

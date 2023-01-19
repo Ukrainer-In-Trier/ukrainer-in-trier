@@ -1,6 +1,6 @@
 ---
-title: 'Psychological help'
-thumbnail: '/projectsImg/7.jpg'
+title: "Psychological help"
+thumbnail: "/projectsImg/7.jpg"
 pagetype: "Basic"
 buttonText: "More"
 previewText: "Every Ukrainian has the opportunity to ask for help and will certainly receive it.

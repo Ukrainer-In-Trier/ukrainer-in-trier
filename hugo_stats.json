@@ -43,7 +43,6 @@
     "classes": [
       "-ml-20",
       "-right-8",
-      "2xl:grid-cols-3",
       "3xl:absolute",
       "3xl:bg-gray-100",
       "3xl:block",
@@ -416,6 +415,7 @@
       "shadow-sm",
       "sm:h-72",
       "sm:text-m",
+      "sm:w-3/5",
       "sm:w-72",
       "st0",
       "st1",

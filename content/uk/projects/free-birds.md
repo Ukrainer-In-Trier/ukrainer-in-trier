@@ -1,6 +1,6 @@
 ---
 title: 'Творчий колектив "ВІЛЬНІ ПТАХИ"'
-thumbnail: '/projectsImg/2.jpg'
+thumbnail: "/projectsImg/2.jpg"
 pagetype: "Basic"
 buttonText: "Бiльше"
 previewText: "Таємничий старовинний Трір притягує до себе талановитих людей, зв'язує та об'єднує їх. 
