@@ -1,7 +1,10 @@
 ---
-author: 'Hugo Authors'
-title: 'Психологічна підримка'
-thumbnail: '/projectsImg/7.jpg'
+title: "Психологічна підримка"
+thumbnail: "/projectsImg/7.jpg"
+pagetype: "Basic"
+buttonText: "Бiльше"
+previewText: "Кожен українець має можливість звер- нутись до нас по допомогу і обов'язково отримає її.  
+Запрошуємо відвідати групу психологічної підтримки, яку проводить психолог, коуч Ганна Плюсніна."
 ---
 
 <div class=' m-0 bg-fixed bg-cover'>

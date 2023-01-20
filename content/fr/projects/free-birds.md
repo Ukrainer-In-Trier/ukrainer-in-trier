@@ -1,6 +1,12 @@
 ---
-author: 'Hugo Authors'
+title: 'Équipe créative "OISEAUX GRATUITS"'
+thumbnail: "/projectsImg/2.jpg"
+pagetype: "Basic"
+buttonText: "Suite"
+previewText: "La vieille ville mystérieuse de Trèves attire, relie et unit des personnes talentueuses.
+De cette façon, des personnes auparavant inconnues pourraient devenir une équipe incroyable."
 ---
+
 <div class=' m-0 bg-fixed bg-cover'>
     <div style='background-color: rgba(220, 38, 38, 0.8)' class='py-8'>
         <div class='grid lg:grid-cols-2 3xl:gap-16 lg:gap-4 gap-2 mx-auto container px-7'>
