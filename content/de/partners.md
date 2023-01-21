@@ -179,3 +179,49 @@ Ein großes Netzwerk aus Gruppen, Gemeinden und Initiativen, die die ganze Vielf
 </div>
 </div></a>
 </div>
+
+<!-- carusel feedback -->
+
+<h1 class="mb-10 mt-24 text-center font-semibold text-2xl dark:text-white text-red-500">Bewertungen unserer Freunde</h1>
+    <!-- Implement the carousel -->
+    <div class="relative w-10/12 min-h-full md:min-h-full mx-auto md:w-4/5 rounded border-2 pt-2 md:pt-6 border-red-300 shadow-lg shadow-black bg-gray-200 dark:bg-white">
+        <div class="slide relative h-full justify-between grid grid-cols-1 md:grid-cols-2 gap-0">
+            <img class="w-56 flex flex-col p-4 justify-center mx-auto md:w-3/4 md:ml-16 h-full object-cover lg:ml-16 xl:ml-32 xl:w-72 rounded-full"
+                src="/partnersImg/rufat_abilov_part.webp">
+            <div class="relative mx-auto h-full mb-16 md:absolute w-10/12 bottom-0 md:top-0 md:w-1/2 md:px-5 py-3 md:right-0 lg:mr-16 xl:mr-32">
+            <h5 class="text-lg my-0 md:text-xl xl:mr-4 2xl:mr-32 lg:ml-6 lg:mt-12 flex md:flex-col justify-center text-center text-black w-full xl:p-4">Rufat Abilov, Wohltätigkeitsstiftung „Vilni“</h5>
+              <p class="relative md:absolute md:right-0 flex flex-col justify-center text-base text-center text-black w-full mx-auto px-2 md:w-3/4 md:py-4 md:right-12 xl:p-4 2xl:mr-18 xl:mr-18 lg:py-6 italic">"Ukrainer in Trier, Ukrainer im Ausland – wir danken Ihnen, dass Sie nicht abseits stehen, dass Sie der Ukraine weiterhin helfen und sie unterstützen. Gemeinsam sind wir unbesiegbar!"</p>
+        </div>
+        </div>
+       <div class="slide relative h-full justify-between grid grid-cols-1 md:grid-cols-2 gap-0">
+            <img class="w-56 flex flex-col p-4 justify-center mx-auto md:w-3/4 md:ml-16 h-full object-cover lg:ml-16 xl:ml-32 xl:w-72 rounded-full"
+                src="/partnersImg/yuriy_grinberg_partn.webp">
+           <div class="relative mx-auto h-full mb-16 md:absolute w-10/12 bottom-0 md:top-0 md:w-1/2 md:px-5 py-3 md:right-0 lg:mr-16 xl:mr-32">
+            <h5 class="text-lg my-0 md:text-xl xl:mr-4 2xl:mr-32 lg:ml-6 lg:mt-12 flex md:flex-col justify-center text-center text-black w-full xl:p-4">Yuriy Grinberg, Netzwerkhafen Ukraine eV</h5>
+              <p class="relative text-base md:absolute md:right-0 md:text-sm flex flex-col justify-center lg:text-base text-center text-black w-full mx-auto px-2 md:w-3/4 md:py-4 md:right-12 xl:p-4 2xl:mr-18 xl:mr-18 lg:py-6 italic">"Die Ukrainer sind eine sehr starke und talentierte Nation. Und wir unsererseits sollten helfen, sich so schnell wie möglich an ein fremdes Land anzupassen, sich zu integrieren und mit der umgebenden Gesellschaft zu kommunizieren. Nur dank; kompatibel Projekte - das werden wir schaffen."</p>
+        </div>
+        </div>
+        <div class="slide relative h-full justify-between grid grid-cols-1 md:grid-cols-2 gap-0">
+            <img class="w-56 flex flex-col p-4 justify-center mx-auto md:w-3/4 md:ml-16 h-full object-cover lg:ml-16 xl:ml-32 xl:w-72 rounded-full"
+                src="/partnersImg/valentin_partn.webp">
+           <div class="relative mx-auto h-full mb-16 md:absolute w-10/12 bottom-0 md:top-0 md:w-1/2 md:px-5 py-3 md:right-0 lg:mr-16 xl:mr-32">
+            <h5 class="text-lg my-0 md:text-xl xl:mr-4 2xl:mr-32 lg:ml-6 lg:mt-12 flex md:flex-col justify-center text-center text-black w-full xl:p-4">Valentin, Militär</h5>
+              <p class="relative md:absolute md:right-0 flex flex-col justify-center text-base text-center text-black w-full mx-auto px-2 md:w-3/4 md:py-4 md:right-12 xl:p-4 2xl:mr-18 xl:mr-18 lg:py-6 italic">"Mädels und Jungs, danke, dass ihr euch nicht hinsetzt, um euch in der Hitze zu sonnen – solange wir für die Freiheit der Ukraine kämpfen! All eure Taten, alle Erinnerungen an die Ukraine – geben uns Kraft und Glauben an den Sieg!"</p>
+        </div>
+        </div>
+        <!-- The previous button -->
+        <a class="absolute left-0 top-1/2 text-red-400 p-4 -translate-y-1/2 bg-black/30 hover:bg-black/50 hover:text-red-600 cursor-pointer"
+            onclick="moveSlide(-1)">❮</a>
+        <!-- The next button -->
+        <a class="absolute right-0 top-1/2 text-red-400 p-4 -translate-y-1/2 bg-black/30 hover:bg-black/50 hover:text-red-600 cursor-pointer"
+            onclick="moveSlide(1)">❯</a>
+             <!-- The dots -->
+    <div class="flex justify-center items-center space-x-5 md:mt-16 lg:mt-8 mb-8">
+        <div class="dot w-3 h-3 rounded-full cursor-pointer" onclick="currentSlide(1)"></div>
+        <div class="dot w-3 h-3 rounded-full cursor-pointer" onclick="currentSlide(2)"></div>
+        <div class="dot w-3 h-3 rounded-full cursor-pointer" onclick="currentSlide(3)"></div>
+    </div>
+    </div>
+    <!-- script -->
+     <script src="/js/sliderPartners.js"></script>
+   
