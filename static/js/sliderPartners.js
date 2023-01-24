@@ -1,4 +1,4 @@
-// set the default active slide to the first one
+
 let slideIndex = 1;
 showSlide(slideIndex);
 // change slide with the prev/next button
@@ -21,12 +21,12 @@ function showSlide(n) {
     }
     // remove active status from all dots
     for (i = 0; i < dots.length; i++) {
-        dots[i].classList.remove('bg-red-400');
-        dots[i].classList.add('bg-red-600');
+        dots[i].classList.remove('bg-red-600');
+        dots[i].classList.add('bg-red-400');
     }
     // show the active slide
     slides[slideIndex - 1].classList.remove('hidden');
     // highlight the active dot
-    dots[slideIndex - 1].classList.remove('bg-red-600');
-    dots[slideIndex - 1].classList.add('bg-red-400');
+    dots[slideIndex - 1].classList.remove('bg-red-400');
+    dots[slideIndex - 1].classList.add('bg-red-600');
 }

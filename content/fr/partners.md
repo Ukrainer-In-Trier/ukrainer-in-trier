@@ -210,10 +210,10 @@ Ein großes Netzwerk aus Gruppen, Gemeinden und Initiativen, die die ganze Vielf
         </div>
         </div>
         <!-- The previous button -->
-        <a class="absolute left-0 top-1/2 text-red-400 p-4 -translate-y-1/2 bg-black/30 hover:bg-black/50 hover:text-red-600 cursor-pointer"
+        <a class="absolute left-0 top-1/2 -mt-10 -ml-5 md:mx-0 text-red-400 p-8 bg-black/30 hover:bg-black/50 hover:text-red-600 cursor-pointer"
             onclick="moveSlide(-1)">❮</a>
         <!-- The next button -->
-        <a class="absolute right-0 top-1/2 text-red-400 p-4 -translate-y-1/2 bg-black/30 hover:bg-black/50 hover:text-red-600 cursor-pointer"
+        <a class="absolute right-0 top-1/2 -mt-10 -mr-5 md:mx-0 text-red-400 p-8 bg-black/30 hover:bg-black/50 hover:text-red-600 cursor-pointer"
             onclick="moveSlide(1)">❯</a>
              <!-- The dots -->
     <div class="flex justify-center items-center space-x-5 md:mt-16 lg:mt-8 mb-8">
@@ -222,6 +222,4 @@ Ein großes Netzwerk aus Gruppen, Gemeinden und Initiativen, die die ganze Vielf
         <div class="dot w-3 h-3 rounded-full cursor-pointer" onclick="currentSlide(3)"></div>
     </div>
     </div>
-    <!-- Javascript code -->
     <script src="/js/sliderPartners.js"></script>
-   
