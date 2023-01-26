@@ -184,7 +184,7 @@ Ein großes Netzwerk aus Gruppen, Gemeinden und Initiativen, die die ganze Vielf
 
 <h1 class="mb-10 mt-24 text-center font-semibold dark:text-white text-2xl text-red-500">Les retours de nos amis</h1>
     <!-- Implement the carousel -->
-    <div class="relative w-10/12 min-h-full md:min-h-full mx-auto md:w-4/5 rounded border-2 pt-2 md:pt-6 border-red-300 shadow-lg shadow-black bg-gray-200 dark:bg-white">
+    <div class="relative w-10/12 min-h-full md:min-h-full mx-auto md:w-4/5 rounded border-2 pt-2 md:pt-6 border-red-400 shadow-lg shadow-black bg-gray-200 dark:bg-white">
         <div class="slide relative h-full justify-between grid grid-cols-1 md:grid-cols-2 gap-0">
             <img class="w-56 flex flex-col p-4 justify-center mx-auto md:w-3/4 md:ml-16 h-full object-cover lg:ml-16 xl:ml-32 xl:w-72 rounded-full"
                 src="/partnersImg/rufat_abilov_part.webp">
@@ -210,10 +210,10 @@ Ein großes Netzwerk aus Gruppen, Gemeinden und Initiativen, die die ganze Vielf
         </div>
         </div>
         <!-- The previous button -->
-        <a class="absolute left-0 top-1/2 -mt-10 -ml-5 md:mx-0 text-red-400 p-8 bg-black/30 hover:bg-black/50 hover:text-red-600 cursor-pointer"
+        <a class="absolute left-0 top-1/2 -mt-10 -ml-5 md:mx-0 text-red-400 p-8 hover:text-red-600 cursor-pointer"
             onclick="moveSlide(-1)">❮</a>
         <!-- The next button -->
-        <a class="absolute right-0 top-1/2 -mt-10 -mr-5 md:mx-0 text-red-400 p-8 bg-black/30 hover:bg-black/50 hover:text-red-600 cursor-pointer"
+        <a class="absolute right-0 top-1/2 -mt-10 -mr-5 md:mx-0 text-red-400 p-8 hover:text-red-600 cursor-pointer"
             onclick="moveSlide(1)">❯</a>
              <!-- The dots -->
     <div class="flex justify-center items-center space-x-5 md:mt-16 lg:mt-8 mb-8">
