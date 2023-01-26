@@ -71,7 +71,7 @@ DefaultContentLanguageInSubdir = true
 
     [[languages.uk.menu.main]]
         name = "Освітні проекти"
-        url = "/uk/projects/educate-projects/"
+        url = "/uk/projects/educational-projects/"
         weight = 4 
         parent = "projects"
 
@@ -191,7 +191,7 @@ DefaultContentLanguageInSubdir = true
 
     [[languages.de.menu.main]]
         name = "Bildungsprojekte"
-        url = "/de/projects/educate-projects/"
+        url = "/de/projects/educational-projects/"
         weight = 4 
         parent = "projects"
 
@@ -309,7 +309,7 @@ DefaultContentLanguageInSubdir = true
 
     [[languages.en.menu.main]]
         name = "Educational projects"
-        url = "/projects/educate-projects/"
+        url = "/en/projects/educational-projects/"
         weight = 4 
         parent = "projects"
 
@@ -427,7 +427,7 @@ DefaultContentLanguageInSubdir = true
 
     [[languages.fr.menu.main]]
         name = "Projets pédagogiques"
-        url = "/fr/projects/educate-projects/"
+        url = "/fr/projects/educational-projects/"
         weight = 4 
         parent = "projects"
 
@@ -493,7 +493,7 @@ DefaultContentLanguageInSubdir = true
   about='about'
   calendar='calendar'
   partners='partners'
-  projects = 'projects/free-birds'
+  projects = 'projects'
   helpMe = 'help/need-help'
   wantHelp = 'help/want-help'
 
