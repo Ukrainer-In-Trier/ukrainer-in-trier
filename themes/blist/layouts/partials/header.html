@@ -77,10 +77,12 @@
         </svg>
       </span>
       <li class="content-dropdown relative 3xl:absolute top-1 mt-2 pb-2 left-4 flex-col h-24 3xl:bg-gray-100 3xl:dark:bg-gray-900 3xl:mt-8 dark:text-white z-10 hidden">
-        {{ range .Site.Languages }} {{ if not (eq .Lang $.Site.Language.Lang) }}
-        <a class="px-5 py-1 hover:text-red-600 dark:hover:text-red-600" href="/{{ .Lang }}" lang="{{ .Lang }}">{{ default
-          .Lang .LanguageName }}</a>
-        {{ end }} {{ end }}
+        {{ $siteLanguages := .Site.Languages}}
+        {{ $pageLang := .Page.Lang}}
+        {{ range .Page.AllTranslations }}
+        <a class="px-5 py-1 hover:text-red-600 dark:hover:text-red-600" href="{{ .RelPermalink }}" lang="{{ .Lang }}">{{ default
+          .Language.LanguageName }}</a>
+        {{ end }}
       </li>
     </div>
     {{ else }}

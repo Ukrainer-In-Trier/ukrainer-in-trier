@@ -23,4 +23,7 @@
   translation: "Листопад"
 - id: December
   translation: "Грудень"
-  
+
+#Navigation
+- id: languageSwitcherLabel
+  translation: "Мова"
