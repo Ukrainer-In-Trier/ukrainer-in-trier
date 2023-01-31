@@ -15,7 +15,7 @@ Et l'idée est née de montrer au monde ce qu'est l'Ukraine, à quel point elle 
 
 <div class=' my-4 bg-fixed bg-cover mb-20' style='background-image: url("/aboutImg/e57edb_006f24e215b6495eabfd5331e03b43e6_mv2.jpg")'>
     <div style='background-color: rgba(220, 38, 38, 0.8)' class='py-14'>
-        <div class='grid lg:grid-cols-2 3xl:gap-10 lg:gap-4 gap-2 mx-auto container px-6'>
+        <div class='grid lg:grid-cols-2 xl:gap-10 lg:gap-4 gap-2 mx-auto container px-6'>
             <div class='text-left flex flex-col justify-between'>
                 <h3 class='text-white text-2xl font-bold py-4'>Notre mission</h3> 
                 <p class='text-white py-4 text-justify'>Pour transmettre nos pensées, notre vision et la vérité aux personnes qui nous entourent. Préserver le patrimoine culturel.
@@ -27,8 +27,8 @@ Et l'idée est née de montrer au monde ce qu'est l'Ukraine, à quel point elle 
                 <h3 class='text-white text-2xl font-bold pt-4'>Que faisons-nous?</h3>
                 <p class='text-white pb-10 text-justify'>Nous construisons l'histoire.
                 Des réunions, des concerts, des expositions, des projets éducatifs et sportifs - tout cela vise à protéger la vérité et à aider l'Ukraine dans la lutte contre l'ennemi agresseur.</p>
-                <img src='/aboutImg/photo_2022-11-06_19-03-58.jpg' class='pb-8 md:w-4/6 lg:w-4/6 3xl:w-4/6 m-auto md:m-0 lg:m-0 3xl:m-0'>
-                <img src='/aboutImg/IMG_20221015_130146.jpg' class='absolute 3xl:top-52  ld:top-52 md:top-52 3xl:right-28 3xl:w-36 lg:right-20 lg:w-28 md:right-24 md:block lg:block 3xl:block hidden'>
+                <img src='/aboutImg/photo_2022-11-06_19-03-58.jpg' class='pb-8 md:w-4/6 lg:w-4/6 xl:w-4/6 m-auto md:m-0 lg:m-0 xl:m-0'>
+                <img src='/aboutImg/IMG_20221015_130146.jpg' class='absolute xl:top-52  ld:top-52 md:top-52 xl:right-28 xl:w-36 lg:right-20 lg:w-28 md:right-24 md:block lg:block xl:block hidden'>
             </div>
         </div>
     </div>
@@ -36,7 +36,7 @@ Et l'idée est née de montrer au monde ce qu'est l'Ukraine, à quel point elle 
 <div class='container mx-auto my-4 px-6'>
     <h3 class='text-4xl font-bold text-red-600 text-center'>Notre équipe</h3>
 </div>
-<div class='grid justify-items-center gap-4 3xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 m-auto'>
+<div class='grid justify-items-center gap-4 xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 m-auto'>
     <div class='relative'>
         <img src='/aboutImg/ourTeam/e57edb_f4bd2241b33a4fa89cb557af819e7d93_mv2.jpg'>
         <div class='absolute md:w-72 md:h-32 bg-white dark:bg-gray-800 bottom-0'>

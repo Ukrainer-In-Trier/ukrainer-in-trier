@@ -7,7 +7,7 @@ tags: ['partners']
 
 <div class='m-0 bg-fixed bg-cover'>
     <div style='background-color: rgba(220, 38, 38, 0.8)' class='py-8 my-12'>
-        <div class='grid lg:grid-cols-2 3xl:gap-8 lg:gap-6 gap-4 mx-auto container px-7'>
+        <div class='grid lg:grid-cols-2 xl:gap-8 lg:gap-6 gap-4 mx-auto container px-7'>
         <div class='text-left flex flex-col justify-center'>
         <p class='text-white py-4 text-lg text-justify'>Wir haben die Ehre, mit einigen der besten Menschen und Unternehmen der Welt zu kommunizieren! 
 Warum sagen wir das? Weil nur solche Menschen und Unternehmen nicht abseits stehen können, wenn Menschen leiden. Wenn man Prinzipien hat, hat man seine eigenen Gedanken und seine eigenen Ansichten. Wenn Sie bereit sind, Ihr eigenes Stück Brot für andere zu opfern, die es nicht kaufen können. <br>
@@ -15,12 +15,12 @@ Danke, dass Sie uns unterstützen! Dafür, dass Sie an unsere Projekte glauben u
 Dank unserer gemeinsamen Arbeit, Seite an Seite, wird die Ukraine gewinnen!  </p>
     </div>
     <div class='flex flex-col justify-center relative p-0'>
-        <img src='/partnersImg/partners_ukr-flag.webp' class='pb-2 md:w-full lg:w-full 3xl:w-full m-auto md:m-0 lg:m-0 3xl:m-0'>	
+        <img src='/partnersImg/partners_ukr-flag.webp' class='pb-2 md:w-full lg:w-full xl:w-full m-auto md:m-0 lg:m-0 xl:m-0'>	
     </div>
     </div>
     </div>
 </div>
-<div class='grid gap-6 md:grid-cols-2 grid-cols-1 md:gap-8 lg:gap-12 3xl:grid-cols-3 m-4'>
+<div class='grid gap-6 xl:grid-cols-3 md:grid-cols-2 grid-cols-1 md:gap-8 lg:gap-12 lg:grid-cols-2 m-4'>
 <!-- vilni -->
 <a href="https://vilni.top/" target="_blank"><div class='relative dark:bg-white dark:text-black grid gap-0 grid-flow-row justify-items-center lg:grid-cols-2 grid-cols-1 md:max-xl-flex h-full border-2 border-red-400 hover:border-red-600 hover:shadow-2xl hover:text-blue-900 dark:hover:border-blue-600 p-8 m-2 rounded shadow-lg shadow-black dark:border-white'>
 <div class='flex flex-col justify-around'>
