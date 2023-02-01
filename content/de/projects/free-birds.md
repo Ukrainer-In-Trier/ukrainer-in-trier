@@ -1,7 +1,12 @@
 ---
-author: 'Hugo Authors'
-
+title: 'Kreativteam "FREE VÖGEL"'
+thumbnail: "/projectsImg/2.jpg"
+pagetype: "Basic"
+buttonText: "Mehr"
+previewText: "Das geheimnisvolle alte Trier zieht talentierte Menschen an, verbindet und vereint sie. 
+So konnten bisher unbekannte Menschen zu einem einzigen unglaublichen Team werden."
 ---
+
 <div class='m-0 bg-fixed bg-cover'>
     <div style='background-color: rgba(220, 38, 38, 0.8)' class='py-8'>
         <div class='grid lg:grid-cols-2 3xl:gap-16 lg:gap-4 gap-2 mx-auto container px-7'>
@@ -115,4 +120,3 @@ choreografin</p>
         </div>
     </div>
 </div>
-     

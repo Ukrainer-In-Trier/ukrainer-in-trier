@@ -17,7 +17,7 @@ type: about
 
 <div class=' mb-20 bg-fixed bg-cover' style='background-image: url("/aboutImg/e57edb_006f24e215b6495eabfd5331e03b43e6_mv2.jpg")'>
     <div style='background-color: rgba(220, 38, 38, 0.8)' class='py-14'>
-        <div class='grid lg:grid-cols-2 3xl:gap-10 lg:gap-4 gap-2 mx-auto container px-7'>
+        <div class='grid lg:grid-cols-2 xl:gap-10 lg:gap-4 gap-2 mx-auto container px-7'>
         <div class='text-left  flex flex-col justify-between'>
         <h3 class='text-white text-2xl font-bold py-4'>Наша місія</h3> 
         <p class='text-white py-4 text-justify'>Донести свої думки, своє бачення і правду до людей, які оточують нас. Зберегти культурну спадщину.
@@ -29,8 +29,8 @@ type: about
         <h3 class='text-white text-2xl font-bold pt-4'>Що ми робимо?</h3>
         <p class='text-white pb-10 text-justify'>Ми будуємо історію. 
 Мітинги, концерти, виставки, освітні та спортивні проекти - все це направлено, щоб захистити правду і допомогти Україні в боротьбі з ворогом-агресором.</p>
-        <img src='/aboutImg/photo_2022-11-06_19-03-58.jpg' class='pb-8 md:w-4/6 lg:w-4/6 3xl:w-4/6 m-auto md:m-0 lg:m-0 3xl:m-0'>
-        <img src='/aboutImg/IMG_20221015_130146.jpg' class='absolute 3xl:top-52  ld:top-52 md:top-52 3xl:right-28 3xl:w-36 lg:right-20 lg:w-28 md:right-24 md:block lg:block 3xl:block hidden'>
+        <img src='/aboutImg/photo_2022-11-06_19-03-58.jpg' class='pb-8 md:w-4/6 lg:w-4/6 xl:w-4/6 m-auto md:m-0 lg:m-0 xl:m-0'>
+        <img src='/aboutImg/IMG_20221015_130146.jpg' class='absolute xl:top-52  ld:top-52 md:top-52 xl:right-28 xl:w-36 lg:right-20 lg:w-28 md:right-24 md:block lg:block xl:block hidden'>
     </div>
     </div>
     </div>
@@ -38,7 +38,7 @@ type: about
 <div class='container mx-auto my-4 px-6'>
     <h3 class='text-4xl font-bold text-red-600 text-center'>Наша команда</h3>
 </div>
-    <div class='grid gap-4 justify-items-center 3xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 m-auto'>
+    <div class='grid gap-4 justify-items-center xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 m-auto'>
     <div class='relative'>
         <img src='/aboutImg/ourTeam/e57edb_f4bd2241b33a4fa89cb557af819e7d93_mv2.jpg'>
         <div class='absolute w-64 h-32 bg-white dark:bg-gray-800 bottom-0'>
@@ -182,7 +182,7 @@ type: about
         </div>
     </div>
     <div class='relative'>
-        <img src='/aboutImg/ourTeam/olena_kotova copy.jpg'>
+        <img src='/aboutImg/ourTeam/olena_kotova_copy.jpg'>
         <div class='absolute w-64 h-32 bg-white dark:bg-gray-800 bottom-0'>
             <h4 class='text-2xl p-2 '>Olena Kotova</h4>
             <p class='px-2 pb-2'>Фея вареничків <br>
@@ -190,7 +190,7 @@ type: about
         </div>
     </div>
      <div class='relative'>
-        <img src='/aboutImg/ourTeam/tatjana copy.jpg'>
+        <img src='/aboutImg/ourTeam/tatjana_copy.jpg'>
         <div class='absolute w-64 h-32 bg-white dark:bg-gray-800 bottom-0'>
             <h4 class='text-2xl p-2 '>Tatiana</h4>
             <p class='px-2 pb-2'>Проект "Зігрій" <br> 
