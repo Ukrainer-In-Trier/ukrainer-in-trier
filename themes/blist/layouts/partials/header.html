@@ -22,7 +22,9 @@
     {{ if .HasChildren }}
     <div class="relative cursor-pointer">
       <li class="flex items-start gap-2  {{ if $currentPage.HasMenuCurrent " main" . }}active{{ end }}">
-        <a class="dropdown-switcher flex items-center" href={{.URL}}>
+        {{ $active := eq $currentPage.RelPermalink (.URL | relLangURL) }}
+        {{ if not $active }}
+        <a class="dropdown-switcher flex items-center hover:text-red-600 "  href="{{ .URL | relLangURL }}">
           {{ .Pre }}
           <span>{{ .Name }}</span>
           <span>
@@ -33,6 +35,19 @@
             </svg>
           </span>
         </a>
+        {{ else }}
+        <p class="dropdown-switcher flex items-center">
+          {{ .Pre }}
+          <span>{{ .Name }}</span>
+          <span>
+            <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" stroke-width="1.5"
+              stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+              <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+              <path d="M18 15l-6 -6l-6 6h12" transform="rotate(180 12 12)" />
+            </svg>
+          </span>
+        </p>
+        {{ end }}
         <!-- Dropdown menu -->
         <div class="content-dropdown relative 3xl:absolute max-w-max top-0 3xl:left-8 place-content-start -ml-20 pb-3 left-0 md:pl-2 md:pr-8 mt-12 flex-col items-start gap-1 3xl:bg-gray-100 3xl:dark:bg-gray-900 
           dark:text-white hidden">
@@ -47,10 +62,18 @@
 
     {{ else }}
     <li class="transition ease-in-out duration-300 hover:text-red-600 ">
+      {{ $active := eq $currentPage.RelPermalink (.URL | relLangURL) }}
+      {{ if not $active }}
       <a href="{{ .URL }}">
         {{ .Pre }}
         <span>{{ .Name }}</span>
       </a>
+      {{ else }}
+      <p class="text-red-600">
+        {{ .Pre }}
+        <span>{{ .Name }}</span>
+      </p>
+      {{ end }}
     </li>
     {{ end }}
     {{ end }}
