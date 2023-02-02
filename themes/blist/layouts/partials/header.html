@@ -36,7 +36,7 @@
           </span>
         </a>
         {{ else }}
-        <p class="dropdown-switcher flex items-center">
+        <div class="dropdown-switcher flex items-center">
           {{ .Pre }}
           <span>{{ .Name }}</span>
           <span>
@@ -46,7 +46,7 @@
               <path d="M18 15l-6 -6l-6 6h12" transform="rotate(180 12 12)" />
             </svg>
           </span>
-        </p>
+        </div>
         {{ end }}
         <!-- Dropdown menu -->
         <div class="content-dropdown relative 3xl:absolute max-w-max top-0 3xl:left-8 place-content-start -ml-20 pb-3 left-0 md:pl-2 md:pr-8 mt-12 flex-col items-start gap-1 3xl:bg-gray-100 3xl:dark:bg-gray-900 
@@ -69,10 +69,10 @@
         <span>{{ .Name }}</span>
       </a>
       {{ else }}
-      <p class="text-red-600">
+      <div class="text-red-600">
         {{ .Pre }}
         <span>{{ .Name }}</span>
-      </p>
+      </div>
       {{ end }}
     </li>
     {{ end }}
