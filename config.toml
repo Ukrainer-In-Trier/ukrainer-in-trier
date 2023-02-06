@@ -129,13 +129,13 @@ DefaultContentLanguageInSubdir = true
 
     [[languages.uk.menu.main]]
         name = "Партнери"
-        url = "/uk/partners"
+        url = "/uk/partners/"
         translationKey = 'partners'
         weight = 7
 
     [[languages.uk.menu.main]]
         name = "Контакти"
-        url = "/uk/contacts"
+        url = "/uk/contacts/"
         translationKey = 'contacts'
         weight = 8
 
@@ -268,7 +268,7 @@ DefaultContentLanguageInSubdir = true
 
     [[languages.de.menu.main]]
         name = "Kontakte"
-        url = "/de/contacts"
+        url = "/de/contacts/"
         translationKey = 'contacts'
         weight = 8
 
@@ -398,7 +398,7 @@ DefaultContentLanguageInSubdir = true
 
     [[languages.en.menu.main]]
         name = "Contacts"
-        url = "/en/contacts"
+        url = "/en/contacts/"
         translationKey = 'contacts'
         weight = 8
 
@@ -530,7 +530,7 @@ DefaultContentLanguageInSubdir = true
 
     [[languages.fr.menu.main]]
         name = "Contacts"
-        url = "/fr/contacts"
+        url = "/fr/contacts/"
         translationKey = 'contacts'
         weight = 8
 
