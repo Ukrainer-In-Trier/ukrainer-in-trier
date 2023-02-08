@@ -15,12 +15,12 @@ Thank you for supporting us! For believing in our projects and helping to implem
 Thanks to our joint work, side by side, Ukraine will win! </p>
     </div>
     <div class='flex flex-col justify-center relative p-0'>
-        <img src='/partnersImg/partners_ukr-flag.webp' class='pb-2 md:w-full lg:w-full 3xl:w-full m-auto md:m-0 lg:m-0 3xl:m-0'>	
+        <img src='/partnersImg/partners_ukr-flag.webp' class='pb-2 md:w-full lg:w-full xl:w-full m-auto md:m-0 lg:m-0 xl:m-0'>	
     </div>
     </div>
     </div>
 </div>
-<div class='grid gap-6 md:grid-cols-2 grid-cols-1 md:gap-8 lg:gap-12 3xl:grid-cols-3 m-4'>
+<div class='grid gap-6 xl:grid-cols-3 md:grid-cols-2 grid-cols-1 md:gap-8 lg:gap-12 lg:grid-cols-2 m-4'>
 <!-- vilni -->
 <a href="https://vilni.top/" target="_blank"><div class='relative dark:bg-white dark:text-black grid gap-0 grid-flow-row justify-items-center lg:grid-cols-2 grid-cols-1 md:max-xl-flex h-full border-2 border-red-400 hover:border-red-600 hover:shadow-2xl hover:text-blue-900 dark:hover:border-blue-600 p-8 m-2 rounded shadow-lg shadow-black dark:border-white'>
 <div class='flex flex-col justify-around'>

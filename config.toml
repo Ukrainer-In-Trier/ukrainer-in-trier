@@ -43,6 +43,7 @@ DefaultContentLanguageInSubdir = true
     [[languages.uk.menu.main]]
         name = "Про нас"
         url = "/uk/about/"
+        translationKey = 'about'
         weight = 2
 
     [[languages.uk.menu.main]]
@@ -54,36 +55,42 @@ DefaultContentLanguageInSubdir = true
     [[languages.uk.menu.main]]
         name = "Aрт простір / мистецтво"
         url = "/uk/projects/art/"
+        translationKey = 'art'
         weight = 1 
         parent = "projects"
 
     [[languages.uk.menu.main]]
         name = "Кейтеринг/ Фуд-корти"
         url = "/uk/projects/catering/"
+        translationKey = 'catering'
         weight = 2 
         parent = "projects"
 
     [[languages.uk.menu.main]]
         name = "Творчий колектив 'Вільні птахи'"
         url = "/uk/projects/free-birds/"
+        translationKey = 'freeBirds'
         weight = 3 
         parent = "projects"
 
     [[languages.uk.menu.main]]
         name = "Освітні проекти"
         url = "/uk/projects/educational-projects/"
+        translationKey = 'eduProj'
         weight = 4 
         parent = "projects"
 
     [[languages.uk.menu.main]]
         name = "Психологічна допомога"
         url = "/uk/projects/psych-help/"
+        translationKey = 'psyschHelp'
         weight = 5 
         parent = "projects"
 
     [[languages.uk.menu.main]]
         name = "Допомога у Трірі"
         url = "/uk/projects/trier-help/"
+        translationKey = 'trierHelp'
         weight = 6 
         parent = "projects"
     
@@ -91,11 +98,13 @@ DefaultContentLanguageInSubdir = true
     [[languages.uk.menu.main]]
         name = "Галерея"
         url = "/uk/gallery/"
+        translationKey = 'gallery'
         weight = 4
 
     [[languages.uk.menu.main]]
         name = "Календар"
         url = "/uk/calendar/"
+        translationKey = 'calendar'
         weight = 5
 
     [[languages.uk.menu.main]]
@@ -107,23 +116,27 @@ DefaultContentLanguageInSubdir = true
      [[languages.uk.menu.main]]
         name = "Мені потрібна допомога"
         url = "/uk/help/need-help"
+        translationKey = 'needHelp'
         weight = 1   
         parent = "Help"
         
      [[languages.uk.menu.main]]
         name = "Хочу допомогти"
         url = "/uk/help/want-help"
+        translationKey = 'wantHelp'
         weight = 2  
         parent = "Help"
 
     [[languages.uk.menu.main]]
         name = "Партнери"
-        url = "/uk/partners"
+        url = "/uk/partners/"
+        translationKey = 'partners'
         weight = 7
 
     [[languages.uk.menu.main]]
         name = "Контакти"
-        url = "/uk/contacts"
+        url = "/uk/contacts/"
+        translationKey = 'contacts'
         weight = 8
 
     [languages.de]
@@ -162,6 +175,7 @@ DefaultContentLanguageInSubdir = true
     [[languages.de.menu.main]]
         name = "Über uns"
         url = "/de/about"
+        translationKey = 'about'
         weight = 2
 
     [[languages.de.menu.main]]
@@ -173,6 +187,7 @@ DefaultContentLanguageInSubdir = true
     [[languages.de.menu.main]]
         name = "Kunstraum / Kunst"
         url = "/de/projects/art/"
+        translationKey = 'art'
         weight = 1 
         parent = "projects"
 
@@ -180,30 +195,35 @@ DefaultContentLanguageInSubdir = true
     [[languages.de.menu.main]]
         name = "Catering/ Foodcourts"
         url = "/de/projects/catering/"
+        translationKey = 'catering'
         weight = 2 
         parent = "projects"
 
     [[languages.de.menu.main]]
         name = "Kreativteam 'Free Birds'"
         url = "/de/projects/free-birds/"
+        translationKey = 'freeBirds'
         weight = 3 
         parent = "projects"
 
     [[languages.de.menu.main]]
         name = "Bildungsprojekte"
         url = "/de/projects/educational-projects/"
+        translationKey = 'eduProj'
         weight = 4 
         parent = "projects"
 
     [[languages.de.menu.main]]
         name = "Psychologische Hilfe"
         url = "/de/projects/psych-help/"
+        translationKey = 'psyschHelp'
         weight = 5 
         parent = "projects"
 
     [[languages.de.menu.main]]
         name = "Hilfe in Trier"
         url = "/de/projects/trier-help/"
+        translationKey = 'trierHelp'
         weight = 6 
         parent = "projects"
     
@@ -211,11 +231,13 @@ DefaultContentLanguageInSubdir = true
     [[languages.de.menu.main]]
         name = "Galerie"
         url = "/de/gallery/"
+        translationKey = 'gallery'
         weight = 4
 
     [[languages.de.menu.main]]
         name = "Kalender"
         url = "/de/calendar/"
+        translationKey = 'calendar'
         weight = 5
 
     [[languages.de.menu.main]]
@@ -227,23 +249,27 @@ DefaultContentLanguageInSubdir = true
     [[languages.de.menu.main]]
         name = "Ich brauche Hilfe"
         url = "/de/help/need-help/"
+        translationKey = 'needHelp'
         weight = 1   
         parent = "hilfe"
         
      [[languages.de.menu.main]]
         name = "Ich möchte helfen"
         url = "/de/help/want-help/"
+        translationKey = 'wantHelp'
         weight = 2  
         parent = "hilfe"
 
     [[languages.de.menu.main]]
         name = "Partner"
         url = "/de/partners/"
+        translationKey = 'partners'
         weight = 7
 
     [[languages.de.menu.main]]
         name = "Kontakte"
-        url = "/de/contacts"
+        url = "/de/contacts/"
+        translationKey = 'contacts'
         weight = 8
 
     [languages.en]
@@ -281,6 +307,7 @@ DefaultContentLanguageInSubdir = true
     [[languages.en.menu.main]]
         name = "About us"
         url = "/en/about/"
+        translationKey = 'about'
         weight = 2
 
     [[languages.en.menu.main]]
@@ -292,36 +319,42 @@ DefaultContentLanguageInSubdir = true
     [[languages.en.menu.main]]
         name = "Art space / art"
         url = "/en/projects/art/"
+        translationKey = 'art'
         weight = 1 
         parent = "projects"
 
     [[languages.en.menu.main]]
         name = "Catering/ Food courts"
         url = "/en/projects/catering/"
+        translationKey = 'catering'
         weight = 2 
         parent = "projects"
 
     [[languages.en.menu.main]]
         name = "Creative team 'Free birds'"
         url = "/en/projects/free-birds/"
+        translationKey = 'freeBirds'
         weight = 3 
         parent = "projects"
 
     [[languages.en.menu.main]]
         name = "Educational projects"
         url = "/en/projects/educational-projects/"
+        translationKey = 'eduProj'
         weight = 4 
         parent = "projects"
 
     [[languages.en.menu.main]]
         name = "Psychological help"
         url = "/en/projects/psych-help/"
+        translationKey = 'psyschHelp'
         weight = 5 
         parent = "projects"
 
     [[languages.en.menu.main]]
         name = "Help in Trier"
         url = "/en/projects/trier-help/"
+        translationKey = 'trierHelp'
         weight = 6 
         parent = "projects"
     
@@ -329,11 +362,13 @@ DefaultContentLanguageInSubdir = true
     [[languages.en.menu.main]]
         name = "Gallery"
         url = "/en/gallery/"
+        translationKey = 'gallery'
         weight = 4
 
     [[languages.en.menu.main]]
         name = "Calendar"
         url = "/en/calendar/"
+        translationKey = 'calendar'
         weight = 5
 
     [[languages.en.menu.main]]
@@ -344,23 +379,27 @@ DefaultContentLanguageInSubdir = true
         [[languages.en.menu.main]]
         name = "I need help"
         url = "/en/help/need-help/"
+        translationKey = 'needHelp'
         weight = 1   
         parent = "Help"
         
      [[languages.en.menu.main]]
         name = "I want to help"
         url = "/en/help/want-help/"
+        translationKey = 'wantHelp'
         weight = 2  
         parent = "Help"
 
     [[languages.en.menu.main]]
         name = "Partners"
         url = "/en/partners/"
+        translationKey = 'partners'
         weight = 7
 
     [[languages.en.menu.main]]
         name = "Contacts"
-        url = "/en/contacts"
+        url = "/en/contacts/"
+        translationKey = 'contacts'
         weight = 8
 
     [languages.fr]
@@ -399,6 +438,7 @@ DefaultContentLanguageInSubdir = true
     [[languages.fr.menu.main]]
         name = "À propos de nous"
         url = "/fr/about/"
+        translationKey = 'about'
         weight = 2
 
     [[languages.fr.menu.main]]
@@ -410,36 +450,42 @@ DefaultContentLanguageInSubdir = true
     [[languages.fr.menu.main]]
         name = "Espace artistique / art"
         url = "/fr/projects/art/"
+        translationKey = 'art'
         weight = 1 
         parent = "projects"
 
     [[languages.fr.menu.main]]
         name = "Restauration/ Foires alimentaires"
         url = "/fr/projects/catering/"
+        translationKey = 'catering'
         weight = 2 
         parent = "projects"
 
     [[languages.fr.menu.main]]
         name = "Equipe créative 'Free Birds'"
         url = "/fr/projects/free-birds/"
+        translationKey = 'freeBirds'
         weight = 3 
         parent = "projects"
 
     [[languages.fr.menu.main]]
         name = "Projets pédagogiques"
         url = "/fr/projects/educational-projects/"
+        translationKey = 'eduProj'
         weight = 4 
         parent = "projects"
 
     [[languages.fr.menu.main]]
         name = "Aide psychologique"
         url = "/fr/projects/psych-help/"
+        translationKey = 'psyschHelp'
         weight = 5 
         parent = "projects"
 
     [[languages.fr.menu.main]]
         name = "Aide à Trèves"
         url = "/fr/projects/trier-help/"
+        translationKey = 'trierHelp'
         weight = 6 
         parent = "projects"
     
@@ -447,11 +493,13 @@ DefaultContentLanguageInSubdir = true
     [[languages.fr.menu.main]]
         name = "Galerie"
         url = "/fr/gallery/"
+        translationKey = 'gallery'
         weight = 4
 
     [[languages.fr.menu.main]]
         name = "Calendrier"
         url = "/fr/calendar/"
+        translationKey = 'calendar'
         weight = 5
 
     [[languages.fr.menu.main]]
@@ -463,23 +511,27 @@ DefaultContentLanguageInSubdir = true
     [[languages.fr.menu.main]]
         name = "J'ai besoin d'aide"
         url = "/fr/help/need-help/"
+        translationKey = 'needHelp'
         weight = 1   
         parent = "aider"
         
      [[languages.fr.menu.main]]
         name = "Je veux aider"
         url = "/fr/help/want-help/"
+        translationKey = 'wantHelp'
         weight = 2  
         parent = "aider"
 
     [[languages.fr.menu.main]]
         name = "Les partenaires"
         url = "/fr/partners/"
+        translationKey = 'partners'
         weight = 7
 
     [[languages.fr.menu.main]]
         name = "Contacts"
-        url = "/fr/contacts"
+        url = "/fr/contacts/"
+        translationKey = 'contacts'
         weight = 8
 
 [params]
