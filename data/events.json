@@ -1,0 +1,67 @@
+{
+  "en": {
+    "E1": {
+      "name": "I have to be strong. I have to be brave. I have no right to whine.",
+      "description": "Meetings in the women's circle. Art therapy practices and MAK practices (metaphorical and associative maps).",
+      "date": "2023-01-27",
+      "link": "",
+      "image": "/calendarImg/e57edb_919cf4e78c534378b1fa04bbef0b949f_mv2.jpg"
+    },
+    "E2": {
+      "name": "Master class 'Embroidered amulet'",
+      "description": "We invite you, dear friends, to the 'Embroidered charm' master class. We will reveal the secrets of cross-stitch embroidery and the meaning of Ukrainian embroidery. Master class: Free. For teenagers and adults. The number of places is limited.",
+      "date": "2023-02-15",
+      "link": "https://docs.google.com/forms/d/1RFI0pO3o3jYDyzsDgTFJCReTSNNfXPDQHNME6Z2b8BA",
+      "image": "/calendarImg/e57edb_4b8a1128083044e8a91c4ec54c32fa47_mv2.jpg"
+    }
+  },
+  "uk": {
+    "E1": {
+      "name": "Я маю бути сильною. Я маю бути мужньою. Я не маю права скиглити.",
+      "description": "Посиденьки в жіночому колі. Арт-терапевтичні практики і МАК-практики (метафорично-асоціативні карти).",
+      "date": "2023-01-27",
+      "link": "",
+      "image": "/calendarImg/e57edb_919cf4e78c534378b1fa04bbef0b949f_mv2.jpg"
+    },
+    "E2": {
+      "name": "Майстер-клас 'Вишитий оберіг'",
+      "description": "Запрошуємо Вас, любі друзі на майстер-клас “Вишитий оберіг”. Розкриємо таємниці вишивки хрестиком, та значення української вишивки. Майстер-клас: Безкоштовний. Для підлітків і дорослих. Кількість місць обмежена.",
+      "date": "2023-02-15",
+      "link": "https://docs.google.com/forms/d/1RFI0pO3o3jYDyzsDgTFJCReTSNNfXPDQHNME6Z2b8BA",
+      "image": "/calendarImg/e57edb_4b8a1128083044e8a91c4ec54c32fa47_mv2.jpg"
+    }
+  },
+  "fr": {
+    "E1": {
+      "name": "Je dois être fort. Je dois être courageux. Je n'ai pas le droit de me plaindre.",
+      "description": "Rencontres dans le cercle des femmes. Pratiques d'art-thérapie et pratiques MAK (cartes métaphoriques et associatives).",
+      "date": "2023-01-27",
+      "link": "",
+      "image": "/calendarImg/e57edb_919cf4e78c534378b1fa04bbef0b949f_mv2.jpg"
+    },
+    "E2": {
+      "name": "Master class 'Amulette brodée'",
+      "description": "Nous vous invitons, chers amis, à la master class 'Charme brodé'. Nous vous dévoilerons les secrets de la broderie au point de croix et la signification de la broderie ukrainienne. Classe de maître : Gratuit. Pour adolescents et adultes. Le nombre de places est limité.",
+      "date": "2023-02-15",
+      "link": "https://docs.google.com/forms/d/1RFI0pO3o3jYDyzsDgTFJCReTSNNfXPDQHNME6Z2b8BA",
+      "image": "/calendarImg/e57edb_4b8a1128083044e8a91c4ec54c32fa47_mv2.jpg"
+    }
+  },
+  "de": {
+    "E1": {
+      "name": "Ich muss stark sein. Ich muss mutig sein. Ich habe kein Recht zu jammern.",
+      "description": "Treffen im Frauenkreis. Kunsttherapeutische Praxen und MAK-Praxen (Metaphorische und assoziative Karten).",
+      "date": "2023-01-27",
+      "link": "",
+      "image": "/calendarImg/e57edb_919cf4e78c534378b1fa04bbef0b949f_mv2.jpg"
+    },
+    "E2": {
+      "name": "Meisterklasse 'Gesticktes Amulett'",
+      "description": "Wir laden Sie, liebe Freunde, zur Meisterklasse 'Gestickter Charme' ein. Wir werden die Geheimnisse der Kreuzstichstickerei und die Bedeutung der ukrainischen Stickerei enthüllen. Meisterklasse: Kostenlos. Für Jugendliche und Erwachsene. Die Anzahl der Plätze ist begrenzt.",
+      "date": "2023-02-15",
+      "link": "https://docs.google.com/forms/d/1RFI0pO3o3jYDyzsDgTFJCReTSNNfXPDQHNME6Z2b8BA",
+      "image": "/calendarImg/e57edb_4b8a1128083044e8a91c4ec54c32fa47_mv2.jpg"
+    }
+  }
+}
+
