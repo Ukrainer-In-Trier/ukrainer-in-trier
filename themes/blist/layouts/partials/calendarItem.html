@@ -13,7 +13,7 @@
             {{ if .description }}
             <div class="mb-4">{{ .description}}</div>
             {{ end }}
-            {{ if .link }}
+            {{ if $date.After now }}
             <a href="{{ .link }}" target="_blank"
                 class="uppercase text-white bg-red-600 px-6 py-2 hover:bg-purple-800">Sign
                 up</a>
