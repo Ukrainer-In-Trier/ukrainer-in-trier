@@ -6,7 +6,7 @@ tags: ['Patners']
 
 <div class='m-0 bg-fixed bg-cover'>
     <div style='background-color: rgba(220, 38, 38, 0.8)' class='py-8 my-12'>
-        <div class='grid lg:grid-cols-2 3xl:gap-8 lg:gap-6 gap-4 mx-auto container px-7'>
+        <div class='grid lg:grid-cols-2 xl:gap-8 lg:gap-6 gap-4 mx-auto container px-7'>
         <div class='text-left flex flex-col justify-center'>
         <p class='text-white py-4 text-lg text-justify'>Ми маємо честь спілкуватись з одними з найкращих людей  та компаній у світі!
 Чому говоримо, саме так: тому що, лише такі люди і компанії не можуть стоять осторонь, коли страждають люди. Коли є принципи, є власні думки і власні погляди. Коли ти готовий пожертвувати власним куском хліба, за ради того, щоб його отримав  інший - в кого немає змоги його купити. <br>
@@ -14,12 +14,12 @@ tags: ['Patners']
 Завдяки нашій сумісній праці пліч-о-пліч, Україна переможе! </p>
     </div>
     <div class='flex flex-col justify-center relative p-0'>
-        <img src='/partnersImg/partners_ukr-flag.webp' class='pb-2 md:w-full lg:w-full 3xl:w-full m-auto md:m-0 lg:m-0 3xl:m-0'>	
+        <img src='/partnersImg/partners_ukr-flag.webp' class='pb-2 md:w-full lg:w-full xl:w-full m-auto md:m-0 lg:m-0 xl:m-0'>	
     </div>
     </div>
     </div>
 </div>
-<div class='grid gap-6 md:grid-cols-2 grid-cols-1 md:gap-8 lg:gap-12 3xl:grid-cols-3 m-4'>
+<div class='grid gap-6 xl:grid-cols-3 md:grid-cols-2 grid-cols-1 md:gap-8 lg:gap-12 lg:grid-cols-2 m-4'>
 <!-- vilni -->
 <a href="https://vilni.top/" target="_blank"><div class='relative dark:bg-white dark:text-black grid gap-0 grid-flow-row justify-items-center lg:grid-cols-2 grid-cols-1 md:max-xl-flex h-full border-2 border-red-400 hover:border-red-600 hover:shadow-2xl hover:text-blue-900 dark:hover:border-blue-600 p-8 m-2 rounded shadow-lg shadow-black dark:border-white'>
 <div class='flex flex-col justify-around'>
@@ -178,3 +178,48 @@ Ein großes Netzwerk aus Gruppen, Gemeinden und Initiativen, die die ganze Vielf
 </div>
 </div></a>
 </div>
+
+<!-- carusel feedback -->
+
+<h1 class="mb-10 mt-24 text-center font-semibold text-2xl dark:text-white text-red-500">Відгуки наших друзів</h1>
+    <!-- Implement the carousel -->
+    <div class="relative w-10/12 min-h-full md:min-h-full mx-auto md:w-4/5 rounded border-2 pt-2 md:pt-6 border-red-400 shadow-lg shadow-black bg-gray-200 dark:bg-white">
+        <div class="slide relative h-full justify-between grid grid-cols-1 md:grid-cols-2 gap-0">
+            <img class="w-56 flex flex-col p-4 justify-center mx-auto md:w-3/4 md:ml-16 h-full object-cover lg:ml-16 xl:ml-32 xl:w-72 rounded-full"
+                src="/partnersImg/rufat_abilov_part.webp">
+            <div class="relative mx-auto h-full mb-16 md:absolute w-10/12 bottom-0 md:top-0 md:w-1/2 md:px-5 py-3 md:right-0 lg:mr-16 xl:mr-32">
+            <h5 class="text-lg my-0 md:text-xl xl:mr-4 2xl:mr-32 lg:ml-6 lg:mt-12 flex md:flex-col justify-center text-center text-black w-full xl:p-4">Руфат Абілов, Благодійний фонд "Вільні"</h5>
+              <p class="relative md:absolute md:right-0 flex flex-col justify-center text-base text-center text-black w-full mx-auto px-2 md:w-3/4 md:py-4 md:right-12 xl:p-4 2xl:mr-18 xl:mr-18 lg:py-6 italic">"Українці в Трірі, українці за кордоном - ми дякуємо вам за те що ви не стоїте осторонь, за те що ви продовжуєте допомагати, і підтримувати Україну. Разом ми не зламні!"</p>
+        </div>
+        </div>
+       <div class="slide relative h-full justify-between grid grid-cols-1 md:grid-cols-2 gap-0">
+            <img class="w-56 flex flex-col p-4 justify-center mx-auto md:w-3/4 md:ml-16 h-full object-cover lg:ml-16 xl:ml-32 xl:w-72 rounded-full"
+                src="/partnersImg/yuriy_grinberg_partn.webp">
+           <div class="relative mx-auto h-full mb-16 md:absolute w-10/12 bottom-0 md:top-0 md:w-1/2 md:px-5 py-3 md:right-0 lg:mr-16 xl:mr-32">
+            <h5 class="text-lg my-0 md:text-xl xl:mr-4 2xl:mr-32 lg:ml-6 lg:mt-12 flex md:flex-col justify-center text-center text-black w-full xl:p-4">Yuriy Grinberg, Network Port Ukraine eV</h5>
+              <p class="relative text-base md:absolute md:right-0 md:text-sm flex flex-col justify-center lg:text-base text-center text-black w-full mx-auto px-2 md:w-3/4 md:py-4 md:right-12 xl:p-4 2xl:mr-18 xl:mr-18 lg:py-6 italic">"Українці - дуже сильна і талановита нація. І ми зі своєї сторони, маємо допомогти максимально швидко допомогти адаптуватись в чужій країні, інтегруватись та комунікувти з оточуючим суспільством. Лише завдяки  сумісними проектам - ми зможемо цього досягти."</p>
+        </div>
+        </div>
+        <div class="slide relative h-full justify-between grid grid-cols-1 md:grid-cols-2 gap-0">
+            <img class="w-56 flex flex-col p-4 justify-center mx-auto md:w-3/4 md:ml-16 h-full object-cover lg:ml-16 xl:ml-32 xl:w-72 rounded-full"
+                src="/partnersImg/valentin_partn.webp">
+           <div class="relative mx-auto h-full mb-16 md:absolute w-10/12 bottom-0 md:top-0 md:w-1/2 md:px-5 py-3 md:right-0 lg:mr-16 xl:mr-32">
+            <h5 class="text-lg my-0 md:text-xl xl:mr-4 2xl:mr-32 lg:ml-6 lg:mt-12 flex md:flex-col justify-center text-center text-black w-full xl:p-4">Валентин, військовий</h5>
+              <p class="relative md:absolute md:right-0 flex flex-col justify-center text-base text-center text-black w-full mx-auto px-2 md:w-3/4 md:py-4 md:right-12 xl:p-4 2xl:mr-18 xl:mr-18 lg:py-6 italic">"Дівчата і хлопці, дякуємо вам за те, що не сіли грітись у теплі - доки ми виборюємо свободу України! Всі ваші дії, всі нагадування про Україну - додають нам силу і віру в перемогу!"</p>
+        </div>
+        </div>
+        <!-- The previous button -->
+        <a class="absolute left-0 top-1/2 -ml-5 md:mx-0 -mt-10 text-red-400 p-8 hover:text-red-600 cursor-pointer"
+            onclick="moveSlide(-1)">❮</a>
+        <!-- The next button -->
+        <a class="absolute right-0 -mt-10 -mr-5 md:mx-0 top-1/2 text-red-400 p-8 hover:text-red-600 cursor-pointer"
+            onclick="moveSlide(1)">❯</a>
+             <!-- The dots -->
+    <div class="flex justify-center items-center space-x-5 md:mt-16 lg:mt-8 mb-8">
+        <div class="dot w-3 h-3 rounded-full cursor-pointer" onclick="currentSlide(1)"></div>
+        <div class="dot w-3 h-3 rounded-full cursor-pointer" onclick="currentSlide(2)"></div>
+        <div class="dot w-3 h-3 rounded-full cursor-pointer" onclick="currentSlide(3)"></div>
+    </div>
+    </div>
+    <!-- Javascript code -->
+      <script src="/js/sliderPartners.js"></script>

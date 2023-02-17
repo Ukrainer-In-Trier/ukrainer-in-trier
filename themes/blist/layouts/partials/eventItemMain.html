@@ -1,30 +1,31 @@
-{{ $date := .Params.date | time.AsTime}}
+{{ $lang := .Lang}} {{ $eventsLang := index $.Site.Data.events $lang}}
+{{ range $eventsLang }}
+{{ $date := .date | time.AsTime}}
 {{ $futureEvents := $date.After now }}
-{{ $todayEvents := $date.Equal now }}
 
-{{ if or $futureEvents }}
+{{ if $futureEvents }}  
 <div class="container mx-auto mb-10 px-6">
     <div
-        class="grid lg:grid-cols-2 grid-cols-1 border border-red-600 my-6 transition-transform transform hover:scale-105">
-        <div class="">
-            <img src="{{ .Params.thumbnail }}" alt="{{ .Params.title }}" class="w-full">
+        class="grid lg:grid-cols-2 grid-cols-1 border border-red-600 my-6 ">
+        <div class="transition-transform transform hover:scale-105">
+            <img src="{{ .image }}" alt="{{ .name }}" class="w-full">
         </div>
         <div class="text-justify my-auto p-6">
-            <h2 class="font-bold lg:text-4xl text-2xl mb-6">{{ .Params.title}}</h2>
-            <div class="text-xl mb-8">{{ partial "date.html" (dict "date" .Date "language" $.Page.Language
+            <h2 class="font-bold lg:text-4xl text-2xl mb-6">{{ .name }}</h2>
+            <div class="text-xl mb-8">{{ partial "date.html" (dict "date" $date "language" $.Page.Language
                 "format" "long") }}</div>
-            {{ if .Params.description }}
-            <div class="mb-4">{{ .Params.description}}</div>
+            {{ if .description }}
+            <div class="mb-4">{{ .description}}</div>
             {{ end }}
-            {{ if .Params.link }}
-            <a href="{{ .Params.link }}" target="_blank" class="uppercase text-white bg-red-600 px-6 py-2 hover:bg-purple-800">Sign
+            {{ if .canRegister }}
+            {{ if $futureEvents }}
+            <a href="{{ .link }}" target="_blank" class="uppercase text-white bg-red-600 px-6 py-2 hover:bg-purple-800">Sign
                 up</a>
+            {{ end }}
             {{ end }}
         </div>
     </div>
 </div>
+{{ end }} 
 {{ end }}
-
-
-
 

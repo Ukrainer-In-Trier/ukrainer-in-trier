@@ -1,5 +1,10 @@
 ---
-author: 'Hugo Authors'
+title: 'Creative team "Free Birds"'
+thumbnail: "/projectsImg/2.jpg"
+pagetype: "Basic"
+buttonText: "More"
+previewText: "The mysterious ancient Trier attracts talented people, binds and unites them. 
+This is how previously unknown people are able to become a single incredible team." 
 ---
 <div class='m-0 bg-fixed bg-cover'>
     <div style='background-color: rgba(220, 38, 38, 0.8)' class='py-8'>
@@ -115,4 +120,3 @@ choreographer</p>
         </div>
     </div>
 </div>
-     
