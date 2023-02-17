@@ -59,7 +59,7 @@ description: "How to help us"
 <div class=' my-4 bg-fixed bg-cover mb-20' style='background-image: url("/projectsImg/10.jpg")'>
     <div style='background-color: rgba(255, 255, 255, 0.7)'>
         <div class='py-40 text-center'>
-            {{< helpLink classes="uppercase font-bold md:text-2xl text-xl px-4 py-2 md:px-7 md:py-4 border border-red-700 text-red-700 self-center hover:bg-red-800 hover:text-white" >}}
+            {{< helpLink classes="uppercase font-bold md:text-2xl text-xl px-4 py-2 md:px-7 md:py-4 border border-red-700 text-red-700 self-center hover:bg-purple-500 hover:text-white" >}}
         </div>
     </div>
 </div>

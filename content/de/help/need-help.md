@@ -13,7 +13,7 @@ title: 'I need help'
   <label for="text">What help do you need?</label><br>
   <textarea type="text" id="text" name="text" placeholder="I need ..." rows="5" cols="28" class="inp textarea__help block w-full rounded-md border dark:border-transparent pl-7 pr-12 focus:border-indigo-500 focus:ring-indigo-500 sm:text-m"></textarea><br><br>
   <div class='hidden border p-2 mb-3' id='sending-mess'></div>
-  <input class='px-10 py-2 bg-red-600 text-white hover:bg-red-800' style= 'cursor: pointer;' type="submit" value="Submit">
+  <input class='px-10 py-2 bg-red-600 text-white hover:bg-purple-500' style= 'cursor: pointer;' type="submit" value="Submit">
 </form>
 </div>
 
