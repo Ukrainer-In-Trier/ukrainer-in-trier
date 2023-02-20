@@ -182,7 +182,7 @@ Fée des fêtes et de la restauration <br>
         </div>
     </div>
      <div class='relative'>
-         <img src='/aboutImg/ourTeam/olena_kotova copy.jpg'>
+         <img src='/aboutImg/ourTeam/olena_kotova_copy.jpg'>
         <div class='absolute w-64 h-32 bg-white dark:bg-gray-800 bottom-0'>
             <h4 class='text-2xl p-2 '>Olena Kotova</h4>
             <p class='px-2 pb-2'>Fée boulette <br>
@@ -190,7 +190,7 @@ Fée des fêtes et de la restauration <br>
         </div>
     </div>
     <div class='relative'>
-        <img src='/aboutImg/ourTeam/tatjana copy.jpg'>
+        <img src='/aboutImg/ourTeam/tatjana_copy.jpg'>
         <div class='absolute w-64 h-32 bg-white dark:bg-gray-800 bottom-0'>
             <h4 class='text-2xl p-2 '>Tatiana</h4>
             <p class='px-2 pb-2'>Projet "Zigry" <br> 
