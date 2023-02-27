@@ -1,7 +1,7 @@
 # ukrainer-in-trier
 This website is for the Ukrainian community in Trier, Germany.
 
-Website will be here: http://ukrainer-in-trier.github.io/
+Website will be here: https://www.ukrainer-in-trier.com/
 
 # How to start project locally for the first time
 1. Install GIT
