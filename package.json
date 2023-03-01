@@ -2,7 +2,7 @@
   "name": "Ukrainer in Trier",
   "version": "1.0.0",
   "description": "Blist is a clean and fast blog theme for your Hugo site.",
-  "main": "Ukrainer in Trier",
+  "main": "index.js",
   "repository": "https://github.com/Ukrainer-In-Trier/ukrainerintrier.github.io",
   "author": "Ukrainer in Trier",
   "license": "MIT",
