@@ -1,14 +1,17 @@
+const themeDir = __dirname + '/../../';
+
 module.exports = {
   purge: {
     enabled: process.env.HUGO_ENVIRONMENT === "production",
     content: [
+      themeDir + "layouts/**/*.html",
+      themeDir + "content/**/*.html",
       "layouts/**/*.md",
       "content/**/*.md",
       "layouts/**/*.html",
+      "content/**/*.html",
       "config.toml",
-      "content/**/*.html",
       "assets/js/search.js",
-      "content/**/*.html",
       "static/js/*.js",
     ],
   },
