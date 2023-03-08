@@ -2,6 +2,7 @@
 "language" $.Page.Language "format" "long")) }} {{ $datestr := (partial
 "date.html" (dict "date" .Date "language" $.Page.Language "format" "long")) }}
 {{ if .Params.thumbnail }}
+
 <div class="relative max-w-5xl mx-auto px-4">
   <img
     src="{{ .Params.thumbnail }}"
@@ -16,6 +17,7 @@
   {{ end }}
 </div>
 {{ end }}
+
 
 <article class=" mx-auto my-8 dark:prose-dark ">
   <h1 class="text-2xl font-bold mb-2 text-center" >{{ .Title }}</h1>
