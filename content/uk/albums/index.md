@@ -11,8 +11,6 @@ title: "Albums"
         Якщо Ви хочете використати наше фото, будь ласка вказуйте <br> автора, або посилання на сайт.
     </p>
 </div>
-
-
 {{<albums>}}
     {{<album-item src="/albums-cover/Xmas.png" length="11" caption="Пісочне шоу 'Снігова Королева'" gallerylink="/uk/gallery5">}}
     {{<album-item src="/albums-cover/home_concert.webp" length="13" caption="Квартирник. Автор: Стецька Є" gallerylink="/uk/gallery3">}}
