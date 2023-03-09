@@ -14,8 +14,9 @@ title: "Albums"
 
 
 {{<albums>}}
-    {{<album-item src="/albums-cover/home_concert.webp" length="13" caption="Квартирник. Автор: Стецька Є" gallerylink="www.google.com">}}
-    {{<album-item src="/albums-cover/vechorniza.webp" length="16" caption="Вечорниця 'Калита'" gallerylink="www.google.com">}}
+    {{<album-item src="/albums-cover/Xmas.png" length="11" caption="Пісочне шоу 'Снігова Королева'" gallerylink="/uk/gallery5">}}
+    {{<album-item src="/albums-cover/home_concert.webp" length="13" caption="Квартирник. Автор: Стецька Є" gallerylink="/uk/gallery3">}}
+    {{<album-item src="/albums-cover/vechorniza.webp" length="16" caption="Вечорниця 'Калита'" gallerylink="/uk/gallery4">}}
     {{<album-item src="/albums-cover/vistavka.webp" length="29" caption="21.05.2022 - Хода вишиванок" gallerylink="/uk/gallery2">}}
     {{<album-item src="/albums-cover/hoda_vishivanok.webp" length="18" caption="4-6 листопада. Виставка" gallerylink="/uk/gallery1">}}
 {{</albums>}}
