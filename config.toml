@@ -98,7 +98,7 @@ DefaultContentLanguageInSubdir = true
     [[languages.uk.menu.main]]
         name = "Галерея"
         url = "/uk/albums/"
-        translationKey = 'gallery'
+        translationKey = 'albums'
         weight = 4
 
     [[languages.uk.menu.main]]
