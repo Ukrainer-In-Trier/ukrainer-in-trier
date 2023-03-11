@@ -24,7 +24,7 @@ previewText: "Передаємо весь український колорит 
     <div class="mt-12 sm:mx-16">
     <h1 class='uppercase text-4xl text-red-600 text-center font-bold pt-6 mb-2'>
 МЕНЮ</h1> 
-<h2 class='text-black text-xl text-center italic pt-0 mb-6'>Приготоване з любов'ю</h2>
+<h2 class='text-black text-xl text-center italic pt-0 mb-6 dark:text-white'>Приготоване з любов'ю</h2>
 
 <div class='grid grid-cols-1 gap-2 md:grid-cols-2 m-2'>
 <div>
