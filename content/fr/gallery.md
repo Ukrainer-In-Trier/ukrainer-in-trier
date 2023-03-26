@@ -13,7 +13,7 @@ type: gallery
 </div>
 
 {{<albums>}}
-{{<album-item class="hover:opacity-40" src="/albums-cover/mavka.png" photo="Éléments: " length="41" caption="21 mars 2023. Performance du groupe 'Mavka'" gallerylink="#">}}
+{{<album-item class="hover:opacity-40" src="/albums-cover/mavka.png" photo="Éléments: " length="41" caption="21 mars 2023. Performance du groupe 'Mavka'" gallerylink="https://photos.google.com/share/AF1QipOwQagCXdFjDIVPgf43PA8Xq-7bFSytoNlz2RbmiqeroGhYzxnkxMkNe33XICLaNA?key=ampfalFsV1NkNHN6TElyMmFuc2V5anV6NGtaRUNR">}}
     {{<album-item src="/albums-cover/Xmas3.png" photo="Éléments: " length="11" caption="26 décembre 2022. Spectacle de sable 'Snow Queen'" gallerylink="#">}}
   {{<album-item src="/albums-cover/home_concert.webp" photo="Éléments: " length="13" caption="17 décembre 2022. Locataire. Auteur : E. Stetska" gallerylink="#">}}
  {{<album-item src="/albums-cover/vechorniza.webp" photo="Éléments: " length="16" caption="16 décembre 2022. Soirée 'Kalita'" gallerylink="#4">}}
