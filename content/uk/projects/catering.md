@@ -6,12 +6,6 @@ buttonText: "Бiльше"
 previewText: "Передаємо весь український колорит через творчість і традиційну  національну їжу."
 ---
 
-<!-- {{< project-picture src="/projectsImg/3.jpg" alt="Кейтеринг/ Фуд-корти/ Ярмарки" >}} -->
-
-<!-- <div class="text-center container p-6 mx-auto">
-Передаємо весь український колорит через творчість і традиційну  національну їжу.
-</div> -->
-
 <div class=' m-0 bg-fixed bg-cover'>
     <div style='background-color: rgba(220, 38, 38, 0.8)' class='py-8'>
         <div class='grid lg:grid-cols-2 3xl:gap-16 lg:gap-4 gap-2 mx-auto container px-7'>
