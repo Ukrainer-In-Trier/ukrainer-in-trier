@@ -2,9 +2,11 @@
 {{- $length := .Get "length" -}}
 {{- $caption := .Get "caption" -}}
 {{- $photo := .Get "photo" -}}
+{{- $gallerylink := .Get "gallerylink" -}}
+
 
 <div class="flex flex-col text-center rounded-lg shadow-lg bg-white">
-    <a href="!#" >
+    <a href="{{$gallerylink}}" target="_blank">
         <img class="w-full h-auto hover:opacity-40" src="{{$src}}" alt="{{$caption}}"/>
   
     <div class="p-6 tracking-wider">
