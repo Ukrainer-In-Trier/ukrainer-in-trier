@@ -94,6 +94,19 @@ DefaultContentLanguageInSubdir = true
         weight = 6 
         parent = "projects"
     
+    [[languages.uk.menu.main]]
+        name = "Виготовлення окопних свічок"
+        url = "/uk/projects/candels/"
+        translationKey = 'candels'
+        weight = 7 
+        parent = "projects"
+
+    [[languages.uk.menu.main]]
+        name = "Українські книги"
+        url = "/uk/projects/books/"
+        translationKey = 'books'
+        weight = 8 
+        parent = "projects"   
 
     [[languages.uk.menu.main]]
         name = "Галерея"
@@ -226,7 +239,20 @@ DefaultContentLanguageInSubdir = true
         translationKey = 'trierHelp'
         weight = 6 
         parent = "projects"
-    
+
+    [[languages.de.menu.main]]
+        name = "Grabkerzen herstellen"
+        url = "/de/projects/candels/"
+        translationKey = 'candels'
+        weight = 7 
+        parent = "projects"
+
+    [[languages.de.menu.main]]
+        name = "Ukrainische Bücher"
+        url = "/de/projects/books/"
+        translationKey = 'books'
+        weight = 8 
+        parent = "projects"   
 
     [[languages.de.menu.main]]
         name = "Galerie"
@@ -336,6 +362,20 @@ DefaultContentLanguageInSubdir = true
         translationKey = 'freeBirds'
         weight = 3 
         parent = "projects"
+
+     [[languages.en.menu.main]]
+        name = "Making trench candles"
+        url = "/en/projects/candels/"
+        translationKey = 'candels'
+        weight = 7 
+        parent = "projects"
+
+    [[languages.en.menu.main]]
+        name = "Ukrainian books"
+        url = "/en/projects/books/"
+        translationKey = 'books'
+        weight = 8 
+        parent = "projects"     
 
     [[languages.en.menu.main]]
         name = "Educational projects"
@@ -467,6 +507,20 @@ DefaultContentLanguageInSubdir = true
         translationKey = 'freeBirds'
         weight = 3 
         parent = "projects"
+
+     [[languages.fr.menu.main]]
+        name = "Faire des bougies de tranchée"
+        url = "/fr/projects/candels/"
+        translationKey = 'candels'
+        weight = 7 
+        parent = "projects"
+
+    [[languages.fr.menu.main]]
+        name = "Livres ukrainiens"
+        url = "/fr/projects/books/"
+        translationKey = 'books'
+        weight = 8 
+        parent = "projects"      
 
     [[languages.fr.menu.main]]
         name = "Projets pédagogiques"
