@@ -22,230 +22,185 @@ previewText: "Передаємо весь український колорит 
     </div>
     </div>
     <div class="mt-12 sm:mx-16">
-    <h1 class='uppercase text-4xl text-red-600 text-center font-bold pt-6 mb-2'>
+    <h1 class='uppercase text-4xl text-black dark:text-white text-center font-bold pt-6 mb-2'>
 МЕНЮ</h1> 
-<h2 class='text-black text-xl text-center italic pt-0 mb-6 dark:text-white'>Приготоване з любов'ю</h2>
-
-<div class='grid grid-cols-1 gap-2 md:grid-cols-2 m-2'>
-<div>
-    <div class="relative block align-top overflow-hidden bg-gray-200 dark:bg-gray-900">
-            <img class="inline-block object-cover w-full h-96 sm:w-72 sm:h-72"
+<h2 class='text-red-600 text-2xl text-center italic pt-0 mb-6'>Приготоване з любов'ю</h2>
+<!-- dishes list -->
+<div class='grid grid-cols-1 gap-2 sm:grid-cols-2 m-2 lg:grid-cols-3'>
+    <div class="relative bg-gray-200 dark:bg-gray-900">
+            <img class="inline-block object-cover w-full h-64"
               src="/cateringImg/borshh.webp">
-        <div class="inline-block align-top overflow-hidden w-full sm:w-72 sm:h-72 p-6 lg:pr-0"> 
+        <div class="inline-block align-top w-full p-4"> 
           <div class="relative align-top block text-xl font-semibold">Український борщ
-          </div>
-          <p class="italic ml-6">300 мл</p>
-          <div class="relative inline-block align-top text-ellipsis overflow-hidden text-sm font-normal pt-4">
+          </div>   
+          <p class="italic">300 мл</p>
+          <div class="relative inline-block align-top text-ellipsis text-sm font-normal pt-4">
           Відвар овочевий, капуста, буряк, морква, цибуля, часник, перець, картопля, томатна паста, квасоля, спеції (сіль, перець, лавровий лист, цукор), селера, петрушка, олія, пастернак. Подається зі сметаною, зеленню і часником (за бажанням).
-          <h3 class="font-bold text-base text-red-600 text-center pt-4">5 ЄВРО</h3>
+          <h3 class="font-bold text-lg text-red-600 text-start pt-4">5 ЄВРО</h3>
           </div>   
         </div>  
-    </div>
 </div>
-<div>
-    <div class="relative block align-top overflow-hidden bg-gray-200 dark:bg-gray-900">
-            <img class="inline-block object-cover w-full h-96 sm:w-72 sm:h-72"
+    <div class="relative bg-gray-200 dark:bg-gray-900">
+            <img class="inline-block object-cover w-full h-64"
               src="/cateringImg/vareniki.webp">
-        <div class="inline-block align-top overflow-hidden w-full sm:w-72 sm:h-72 p-6 lg:pr-0"> 
+        <div class="inline-block align-top w-full p-4"> 
           <div class="relative align-top block text-xl font-semibold">Українські вареники
           </div>
-          <p class="italic ml-6">5 шт.</p>
-          <div class="relative inline-block align-top text-ellipsis overflow-hidden text-sm font-normal pt-4">
+          <p class="italic">5 шт.</p>
+          <div class="relative inline-block align-top text-ellipsis text-sm font-normal pt-4">
           Вода, яйця, сіль, борошно, капуста, морква, цибуля, масло. Подається зі сметаною або смаженою цибулею.
-          <h3 class="font-bold text-base text-red-600 text-center pt-4">3,50 ЄВРО</h3>
+          <h3 class="font-bold text-lg text-red-600 text-start pt-4">3.50 ЄВРО</h3>
           </div>   
         </div>  
     </div>
-</div>
-</div>
-
-<div class='grid grid-cols-1 gap-2 md:grid-cols-2 m-2'>
-<div>
-    <div class="relative block align-top overflow-hidden bg-gray-200 dark:bg-gray-900">
-            <img class="inline-block object-cover w-full h-96 sm:w-72 sm:h-72"
+    <div class="relative block align-top  bg-gray-200 dark:bg-gray-900">
+            <img class="inline-block object-cover w-full h-64"
               src="/cateringImg/catering3.webp">
-        <div class="inline-block align-top overflow-hidden w-full sm:w-72 sm:h-72 p-6 lg:pr-0"> 
+        <div class="inline-block align-top w-full p-4"> 
           <div class="relative align-top block text-xl font-semibold">Українські тефтелі
           </div>
-          <p class="italic ml-6">1 шт.</p>
-          <div class="relative inline-block align-top text-ellipsis overflow-hidden text-sm font-normal pt-4">
+          <p class="italic">1 шт.</p>
+          <div class="relative inline-block align-top text-ellipsis  text-sm font-normal pt-4">
          М'ясні суміші (свинина, яловичина), хліб білий, молоко, яйця, цибуля, часник, спеції (сіль, перець), сухарі, олія.
 <br>
 Тефтелі подають з булочкою.
-          <h3 class="font-bold text-base text-red-600 text-center pt-4">3,50 ЄВРО</h3>
+          <h3 class="font-bold text-lg text-red-600 text-start pt-4">3.50 ЄВРО</h3>
           </div>   
         </div>  
     </div>
-</div>
-<div>
-    <div class="relative block align-top overflow-hidden bg-gray-200 dark:bg-gray-900">
-            <img class="inline-block object-cover w-full h-96 sm:w-72 sm:h-72"
+    <div class="relative block align-top  bg-gray-200 dark:bg-gray-900">
+            <img class="inline-block object-cover w-full h-64"
               src="/cateringImg/catering4.webp">
-        <div class="inline-block align-top overflow-hidden w-full sm:w-72 sm:h-72 p-6 lg:pr-0"> 
+        <div class="inline-block align-top w-full p-4"> 
           <div class="relative align-top block text-xl font-semibold">Млинці з м'ясом
           </div>
-          <p class="italic ml-6">2 шт.</p>
-          <div class="relative inline-block align-top text-ellipsis overflow-hidden text-sm font-normal pt-4">
+          <p class="italic">2 шт.</p>
+          <div class="relative inline-block align-top text-ellipsis  text-sm font-normal pt-4">
           Молоко, яйця, борошно, сіль, цукор, різне м'ясо (індичка, яловичина, курка), цибуля, морква, олія, вершкове масло.
-          <h3 class="font-bold text-base text-red-600 text-center pt-4">4 ЄВРО</h3>
+          <h3 class="font-bold text-lg text-red-600 text-start pt-4">4 ЄВРО</h3>
           </div>   
         </div>  
     </div>
-</div>
-</div>
-
-<div class='grid grid-cols-1 gap-2 md:grid-cols-2 m-2'>
-<div>
-    <div class="relative block align-top overflow-hidden bg-gray-200 dark:bg-gray-900">
-            <img class="inline-block object-cover w-full h-96 sm:w-72 sm:h-72"
+    <div class="relative block align-top  bg-gray-200 dark:bg-gray-900">
+            <img class="inline-block object-cover w-full h-64"
               src="/cateringImg/catering5.webp">
-        <div class="inline-block align-top overflow-hidden w-full sm:w-72 sm:h-72 p-6 lg:pr-0"> 
+        <div class="inline-block align-top w-full p-4"> 
           <div class="relative align-top block text-xl font-semibold">Українські бутерброди
           </div>
-          <p class="italic ml-6">1 шт.</p>
-          <div class="relative inline-block align-top text-ellipsis overflow-hidden text-sm font-normal pt-4">
+          <p class="italic">1 шт.</p>
+          <div class="relative inline-block align-top text-ellipsis  text-sm font-normal pt-4">
          Хліб, хрін, сало, розсольник.
-          <h3 class="font-bold text-base text-red-600 text-center pt-4">1 ЄВРО</h3>
+          <h3 class="font-bold text-lg text-red-600 text-start pt-4">1 ЄВРО</h3>
           </div>   
         </div>  
     </div>
-</div>
-<div>
-    <div class="relative block align-top overflow-hidden bg-gray-200 dark:bg-gray-900">
-            <img class="inline-block object-cover w-full h-96 sm:w-72 sm:h-72"
+    <div class="relative block align-top  bg-gray-200 dark:bg-gray-900">
+            <img class="inline-block object-cover w-full h-64"
               src="/cateringImg/catering6.webp">
-        <div class="inline-block align-top overflow-hidden w-full sm:w-72 sm:h-72 p-6 lg:pr-0"> 
+        <div class="inline-block align-top w-full p-4"> 
           <div class="relative align-top block text-xl font-semibold">Деруни
           </div>
-          <p class="italic ml-6">3 шт.</p>
-          <div class="relative inline-block align-top text-ellipsis overflow-hidden text-sm font-normal pt-4">
+          <p class="italic">3 шт.</p>
+          <div class="relative inline-block align-top text-ellipsis  text-sm font-normal pt-4">
           Картопля, яловичина, яйця, цибуля, часник, борошно, олія.
 Подається зі сметаною і зеленню.
-          <h3 class="font-bold text-base text-red-600 text-center pt-4">3,50 ЄВРО</h3>
+          <h3 class="font-bold text-lg text-red-600 text-start pt-4">3.50 ЄВРО</h3>
           </div>   
         </div>  
     </div>
-</div>
-</div>
-
-<div class='grid grid-cols-1 gap-2 md:grid-cols-2 m-2'>
-<div>
-    <div class="relative block align-top overflow-hidden bg-gray-200 dark:bg-gray-900">
-            <img class="inline-block object-cover w-full h-96 sm:w-72 sm:h-72"
+    <div class="relative block align-top  bg-gray-200 dark:bg-gray-900">
+            <img class="inline-block object-cover w-full h-64"
               src="/cateringImg/catering7.webp">
-        <div class="inline-block align-top overflow-hidden w-full sm:w-72 sm:h-72 p-6 lg:pr-0"> 
+        <div class="inline-block align-top w-full p-4"> 
           <div class="relative align-top block text-xl font-semibold">Млинці
           </div>
-          <p class="italic ml-6">2 шт.</p>
-          <div class="relative inline-block align-top text-ellipsis overflow-hidden text-sm font-normal pt-4">
+          <p class="italic">2 шт.</p>
+          <div class="relative inline-block align-top text-ellipsis  text-sm font-normal pt-4">
           Сир, яйця, борошно, султани (за бажанням), сіль, цукор, ваніль, олія.
-          <h3 class="font-bold text-base text-red-600 text-center pt-4">3,50 ЄВРО</h3>
+          <h3 class="font-bold text-lg text-red-600 text-start pt-4">3.50 ЄВРО</h3>
           </div>   
         </div>  
     </div>
-</div>
-<div>
-    <div class="relative block align-top overflow-hidden bg-gray-200 dark:bg-gray-900">
-            <img class="inline-block object-cover w-full h-96 sm:w-72 sm:h-72"
+    <div class="relative block align-top  bg-gray-200 dark:bg-gray-900">
+            <img class="inline-block object-cover w-full h-64"
               src="/cateringImg/catering8.webp">
-        <div class="inline-block align-top overflow-hidden w-full sm:w-72 sm:h-72 p-6 lg:pr-0"> 
+        <div class="inline-block align-top w-full p-4"> 
           <div class="relative align-top block text-xl font-semibold">Пірошки з капустою
           </div>
-          <p class="italic ml-6">1 шт.</p>
-          <div class="relative inline-block align-top text-ellipsis overflow-hidden text-sm font-normal pt-4">
+          <p class="italic">1 шт.</p>
+          <div class="relative inline-block align-top text-ellipsis  text-sm font-normal pt-4">
           Тісто: борошно, яйця, дріжджі, молоко, олія, сіль, цукор.
 Начинка: капуста свіжа і квашена, морква, цибуля, цукор, сіль, перець.
-          <h3 class="font-bold text-base text-red-600 text-center pt-4">1,50 ЄВРО</h3>
+          <h3 class="font-bold text-lg text-red-600 text-start pt-4">1.50 ЄВРО</h3>
           </div>   
         </div>  
     </div>
-</div>
-</div>
-
-<div class='grid grid-cols-1 gap-2 md:grid-cols-2 m-2'>
-<div>
-    <div class="relative block align-top overflow-hidden bg-gray-200 dark:bg-gray-900">
-            <img class="inline-block object-cover w-full h-96 sm:w-72 sm:h-72"
+    <div class="relative block align-top  bg-gray-200 dark:bg-gray-900">
+            <img class="inline-block object-cover w-full h-64"
               src="/cateringImg/catering9.webp">
-        <div class="inline-block align-top overflow-hidden w-full sm:w-72 sm:h-72 p-6 lg:pr-0"> 
+        <div class="inline-block align-top w-full p-4"> 
           <div class="relative align-top block text-xl font-semibold">Французький салат "Олів'є"
           </div>
-          <p class="italic ml-6">200 г</p>
-          <div class="relative inline-block align-top text-ellipsis overflow-hidden text-sm font-normal pt-4">
+          <p class="italic">200 г</p>
+          <div class="relative inline-block align-top text-ellipsis  text-sm font-normal pt-4">
          Картопля, шинка, морква, яйця, цибуля, зелений горошок, майонез, спеції (сіль, перець), маринований огірок.
-          <h3 class="font-bold text-base text-red-600 text-center pt-4">5 ЄВРО</h3>
+          <h3 class="font-bold text-lg text-red-600 text-start pt-4">5 ЄВРО</h3>
           </div>   
         </div>  
     </div>
-</div>
-<div>
-    <div class="relative block align-top overflow-hidden bg-gray-200 dark:bg-gray-900">
-            <img class="inline-block object-cover w-full h-96 sm:w-72 sm:h-72"
-              src="/cateringImg/Seledka.webp">
-        <div class="inline-block align-top overflow-hidden w-full sm:w-72 sm:h-72 p-6 lg:pr-0"> 
+    <div class="relative block align-top  bg-gray-200 dark:bg-gray-900">
+            <img class="inline-block object-cover w-full h-64"
+              src="/cateringImg/seledka.webp">
+        <div class="inline-block align-top w-full p-4"> 
           <div class="relative align-top block text-xl font-semibold">Салат "Щуба"
           </div>
-          <p class="italic ml-6">200 г</p>
-          <div class="relative inline-block align-top text-ellipsis overflow-hidden text-sm font-normal pt-4">
+          <p class="italic">200 г</p>
+          <div class="relative inline-block align-top text-ellipsis  text-sm font-normal pt-4">
           Риба (оселедець), картопля, морква, буряк, яйця, майонез, спеції (сіль, перець).
-          <h3 class="font-bold text-base text-red-600 text-center pt-4">4 ЄВРО</h3>
+          <h3 class="font-bold text-lg text-red-600 text-start pt-4">4 ЄВРО</h3>
           </div>   
         </div>  
     </div>
-</div>
-</div>
-
-
-<div class='grid grid-cols-1 gap-2 md:grid-cols-2 m-2'>
-<div>
-    <div class="relative block align-top overflow-hidden bg-gray-200 dark:bg-gray-900">
-            <img class="inline-block object-cover w-full h-96 sm:w-72 sm:h-72"
+    <div class="relative block align-top  bg-gray-200 dark:bg-gray-900">
+            <img class="inline-block object-cover w-full h-64"
               src="/cateringImg/napoleon.webp">
-        <div class="inline-block align-top overflow-hidden w-full sm:w-72 sm:h-72 p-6 lg:pr-0"> 
+        <div class="inline-block align-top w-full p-4"> 
           <div class="relative align-top block text-xl font-semibold">Торт "Наполеон"
           </div>
-          <p class="italic ml-6">1 шт.</p>
-          <div class="relative inline-block align-top text-ellipsis overflow-hidden text-sm font-normal pt-4">
-        масло, борошно, цукор, сіль, молоко.
+          <p class="italic">1 шт.</p>
+          <div class="relative inline-block align-top text-ellipsis  text-sm font-normal pt-4">
+        Масло, борошно, цукор, сіль, молоко.
 Крем: молоко, цукор, курячий жовток, борошно, масло.
-          <h3 class="font-bold text-base text-red-600 text-center pt-4">4 ЄВРО</h3>
+          <h3 class="font-bold text-lg text-red-600 text-start pt-4">4 ЄВРО</h3>
           </div>   
         </div>  
     </div>
-</div>
-<div>
-    <div class="relative block align-top overflow-hidden bg-gray-200 dark:bg-gray-900">
-            <img class="inline-block object-cover w-full h-96 sm:w-72 sm:h-72"
+    <div class="relative block align-top  bg-gray-200 dark:bg-gray-900">
+            <img class="inline-block object-cover w-full h-64"
               src="/cateringImg/uzvar.webp">
-        <div class="inline-block align-top overflow-hidden w-full sm:w-72 sm:h-72 p-6 lg:pr-0"> 
+        <div class="inline-block align-top w-full p-4"> 
           <div class="relative align-top block text-xl font-semibold">Узвар
           </div>
-          <p class="italic ml-6">200 мл</p>
-          <div class="relative inline-block align-top text-ellipsis overflow-hidden text-sm font-normal pt-4">
-          Вода, сушені яблука, чорнослив, груша, цукор, лимон&
-          <h3 class="font-bold text-base text-red-600 text-center pt-4">1 ЄВРО</h3>
+          <p class="italic">200 мл</p>
+          <div class="relative inline-block align-top text-ellipsis  text-sm font-normal pt-4">
+          Вода, сушені яблука, чорнослив, груша, цукор, лимон.
+          <h3 class="font-bold text-lg text-red-600 text-start pt-4">1 ЄВРО</h3>
           </div>   
         </div>  
     </div>
-</div>
-</div>
-
-<div class='grid grid-cols-1 gap-2 md:grid-cols-2 m-2'>
-<div>
-    <div class="relative block align-top overflow-hidden bg-gray-200 dark:bg-gray-900">
-            <img class="inline-block object-cover w-full h-96 sm:w-72 sm:h-72"
+    <div class="relative block align-top  bg-gray-200 dark:bg-gray-900">
+            <img class="inline-block object-cover w-full h-64"
               src="/cateringImg/glintvejn.webp">
-        <div class="inline-block align-top overflow-hidden w-full sm:w-72 sm:h-72 p-6 lg:pr-0"> 
+        <div class="inline-block align-top w-full p-4"> 
           <div class="relative align-top block text-xl font-semibold">Святковий глінтвейн
           </div>
-          <p class="italic ml-6">200 мл</p>
-          <div class="relative inline-block align-top text-ellipsis overflow-hidden text-sm font-normal pt-4">
-         Червоне вино, кориця (паличка), гвоздика, мускатний горіх, апельсин
-          <h3 class="font-bold text-base text-red-600 text-center pt-4">2,5 ЄВРО</h3>
+          <p class="italic">200 мл</p>
+          <div class="relative inline-block align-top text-ellipsis  text-sm font-normal pt-4">
+         Червоне вино, кориця (паличка), гвоздика, мускатний горіх, апельсин.
+          <h3 class="font-bold text-lg text-red-600 text-start pt-4">2.50 ЄВРО</h3>
           </div>   
         </div>  
     </div>
-</div>
 <div>
     
 </div>
@@ -254,3 +209,4 @@ previewText: "Передаємо весь український колорит 
 
 </div>
 </div>
+
