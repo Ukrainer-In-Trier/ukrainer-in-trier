@@ -1,0 +1,23 @@
+{{- $src := .Get "src" -}}
+{{- $length := .Get "length" -}}
+{{- $caption := .Get "caption" -}}
+{{- $photo := .Get "photo" -}}
+{{- $gallerylink := .Get "gallerylink" -}}
+
+
+<div class="flex flex-col text-center rounded-lg shadow-lg bg-white">
+    <a href="{{$gallerylink}}" target="_blank">
+        <img class="w-full h-auto hover:opacity-40" src="{{$src}}" alt="{{$caption}}"/>
+  
+    <div class="p-6 tracking-wider">
+        {{ with $caption }}
+        <h5 class="text-gray-900 text-xl font-medium mb-2">
+            {{$caption}}
+        </h5>
+        {{ end }}
+        <p class="text-gray-700 text-base mb-4">
+           {{ $photo }} {{$length}}
+        </p>
+    </a>
+    </div>
+</div> 
