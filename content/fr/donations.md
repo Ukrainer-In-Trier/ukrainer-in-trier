@@ -35,11 +35,11 @@ description: "How to help us"
         </div>
         <div class='px-20 border py-6'>
             <h4 class='font-bold text-xl py-4'>&#10010 Aide financière</h4>
-            <p>Nous collectons des dons via notre organisation partenaire :
-            <span class='font-bold'>Netzwerkhafen Ukraine e.V.</span><br>
-            <span class='font-bold'>Konto</span>: Deutsche Skatbank <br>
-            <span class='font-bold'>IBAN</span>: DE55 5855 0130 0001 1363 24<br>
-            <span class='font-bold'>Steuernummer</span>: 42/660/11260 <br>
+            <p>Nous collectons des dons via notre organisation:
+            <span class='font-bold'>Ukrainer in Trier e.V</span><br>
+            <span class='font-bold'>Konto</span>: Sparkasse Trier <br>
+            <span class='font-bold'>IBAN</span>: DE68 5855 0130 0001 1426 86<br>
+            <span class='font-bold'>BIC</span>: TRISDE55XXX <br>
             <span class='font-bold'>Verwendungszweck </span>: Spende Ukrainer in Trier (Geben Sie den Zweck an: Hilfe für die Ukraine, Bildung, Kultur, Kunst, Bibliothek, psychologische Hilfe).</p>
         </div>
     </div>
